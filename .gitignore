@@ -1,0 +1,6 @@
+/_site/
+.bundle
+.DS_Store
+node_modules
+Gemfile.lock
+.rake_tasks~

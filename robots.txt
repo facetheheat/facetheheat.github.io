@@ -1,0 +1,12 @@
+Host: pavel.miroshnichen.co
+Sitemap: http://pavel.miroshnichen.co/Sitemap.xml
+
+User-agent: *
+Disallow: /sitemap.xml
+Disallow: /archive
+Disallow: /tag
+Disallow: /assets
+Disallow: /images
+Disallow: /rss
+
+Allow: /

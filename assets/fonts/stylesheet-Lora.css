@@ -1,0 +1,40 @@
+/* font-family: "LoraRegular"; */
+@font-face {
+    font-family: "LoraRegular";
+    src: url("../fonts/LoraRegular.eot");
+    src: url("../fonts/LoraRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/LoraRegular.woff") format("woff"),
+    url("../fonts/LoraRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "LoraBold"; */
+@font-face {
+    font-family: "LoraBold";
+    src: url("../fonts/LoraBold.eot");
+    src: url("../fonts/LoraBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/LoraBold.woff") format("woff"),
+    url("../fonts/LoraBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "LoraItalic"; */
+@font-face {
+    font-family: "LoraItalic";
+    src: url("../fonts/LoraItalic.eot");
+    src: url("../fonts/LoraItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/LoraItalic.woff") format("woff"),
+    url("../fonts/LoraItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "LoraBoldItalic"; */
+@font-face {
+    font-family: "LoraBoldItalic";
+    src: url("../fonts/LoraBoldItalic.eot");
+    src: url("../fonts/LoraBoldItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/LoraBoldItalic.woff") format("woff"),
+    url("../fonts/LoraBoldItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}

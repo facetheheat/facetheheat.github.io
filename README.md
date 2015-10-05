@@ -1,1 +1,0 @@
-# pavelmiroshnichenko.github.io

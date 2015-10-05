@@ -1,0 +1,43 @@
+---
+layout: page
+title: Контакты
+permalink: /contact/
+---
+<p>
+Меня зовут Павел Мирошниченко. <br>
+Я работаю в должности Senior QA Automation Engineer (OS X) <br>
+и по совместительству Scrum Master.
+</p>
+
+<p>
+В свободное время веду этот блог, уделяю внимание темам автоматизации, личной продуктивности, обзорам приложений.
+</p>
+
+<p>
+Давайте знакомиться, всегда приятно встречать единомышленников.
+</p>
+
+<div class="py2">
+  {% if site.ajaxify_contact_form %}
+    <form class="form-stacked">
+      <input type="text" name="email" class="field-light" placeholder="Ваш Email">
+      <textarea type="text" name="content" class="field-light" rows="5" placeholder="Если появились вопросы и предложения, напишите прямо здесь"></textarea>
+      <input type="hidden" name="_subject" value="New submission!" />
+      <input type="text" name="_gotcha" style="display:none" />
+      <button type='submit' class="button button-blue button-big mobile-block">Отправить сообщение</button>
+    </form>
+  {% else %}
+    <form action="https://formspree.io/{{ site.email }}" method="POST" class="form-stacked">
+      <input type="text" name="email" class="field-light" placeholder="Ваш Email">
+      <textarea type="text" name="content" class="field-light" rows="5" placeholder="Если появились вопросы и предложения, напишите прямо здесь"></textarea>
+      <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/" />
+      <input type="hidden" name="_subject" value="New submission!" />
+      <input type="text" name="_gotcha" style="display:none" />
+      <input type="submit" class="button button-blue button-big mobile-block" value="Отправить сообщение">
+    </form>
+  {% endif %}
+</div>
+
+{% if site.ajaxify_contact_form %}
+  {% include ajaxify_content_form.html %}
+{% endif %}

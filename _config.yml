@@ -1,0 +1,65 @@
+# Site settings
+title:       'Блог Павла Мирошниченко'
+email:       'pavel@miroshnichen.co'
+author:      'Павел Мирошниченко'
+description: 'советы и рекомендации по технологиям'
+baseurl:     ''
+url:         'http://pavel.miroshnichen.co'
+date_format: '%d/%m/%Y'
+
+# Google services
+google_analytics: 'UA-58671261-1'
+google_verification:
+yandex_metrika: 28652021
+
+# Optional features
+animated:             false
+show_related_posts:   false
+show_post_footers:    false
+show_social_icons:    false
+ajaxify_contact_form: false
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname: pavelmiroshnichenko
+
+# Social icons
+github_username: 
+bitbucket_username:
+stackoverflow_id:
+twitter_username:
+google_plus_id:
+linkedin_username:
+angellist_username:
+medium_id:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Post sharing icons
+show_sharing_icons: false
+share_text: 'Поделиться'
+# Change to 'true' to enable individual icons
+share_facebook: false
+share_twitter: false
+share_googleplus: false
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
+
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     9
+paginate_path: '/page/:num/'
+
+sass:
+  compressed: true
+
+gems:
+  - jekyll-sitemap
