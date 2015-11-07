@@ -2,9 +2,7 @@
 layout: post
 title: Моя подборка программ для Mac
 date: '2015-01-17 20:02:00'
-tags:
-- Mac
-- Setup
+tags: [Mac]
 ---
 
 Hello, World!  

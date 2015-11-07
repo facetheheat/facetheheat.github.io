@@ -3,9 +3,7 @@ layout: post
 title: Sublime Text и кириллица
 date: '2015-03-08 16:24:35'
 tags:
-- Sublime Text
-- UTF8
-- Encoding
+- Mac
 ---
 
 Мне очень нравится текстовый редактор Sublime Text, но иногда я сталкиваюсь с необычными ошибками в скриптах, написанных в нем.
