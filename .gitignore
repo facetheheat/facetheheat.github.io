@@ -5,3 +5,4 @@ node_modules
 Gemfile.lock
 .rake_tasks~
 .sass-cache
+.jekyll-metadata
