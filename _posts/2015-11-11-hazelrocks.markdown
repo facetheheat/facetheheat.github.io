@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Настраиваем правила для Hazel'
+title: "Настраиваем Hazel - автоматизатор для Mac"
 date: 2015-11-11 11:13:05
 tags:
 - Mac
