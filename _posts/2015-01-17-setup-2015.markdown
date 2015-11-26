@@ -16,7 +16,7 @@ Hello, World!
 * Safari.app - браузер по-умолчанию.
 * Mail.app - единственный почтовый клиент, который установлен на вашем Mac.
 * Messages.app - сообщения. Интеграция с iPhone, отправка и получение смс без телефона в руках.
-* Dictionary.app - словарь с установленными словарями от Abbyy(найти на торрентах). Я купил приложение от [Lingvo Dictionary](https://geo.itunes.apple.com/ru/app/lingvo-dictionary/id467622356?mt=&at=1001l9qh&ct=blog), но оно не такое удобное как стандартное. Выделяем неизвестное слово и 3 тапа по тачпаду.
+* Dictionary.app - словарь с установленными словарями от Abbyy(найти на торрентах). Я купил [Lingvo Dictionary](https://geo.itunes.apple.com/ru/app/lingvo-dictionary/id467622356?mt=&at=1001l9qh&ct=blog), но оно не такое удобное как стандартное. Выделяем неизвестное слово и 3 тапа по тачпаду.
 * Finder.app - работа с файлами и документами.
 * Preview.app - приложение для просмотра картинок и PDF. 
 * Console.app - просмотр логов.
