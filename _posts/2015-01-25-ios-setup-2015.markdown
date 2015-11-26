@@ -55,7 +55,7 @@ tags:
 С выходом iOS8 я перешел на Fantastical, т.к. в штатном календаре пропал режим отображения "Месяц" с событиями по выбранному дню на нижней половине экрана. Apple вернул этот режим в каком-то обновлении, но я был доволен Fantastical.
 После недавнего рестора и чистой установки iOS, решил вернуться на стандартный календарь.
 
-*[Simplenote](https://itunes.apple.com/ru/app/simplenote/id289429962?l=en&mt=8)*
+*[Simplenote](https://geo.itunes.apple.com/ru/app/simplenote/id289429962?mt=8&at=1001l9qh&ct=blog)*
 Простые заметки. Я не пользуюсь штатными заметками в iOS, т.к. они в процессе доработок. Изменения во внешнем виде, добавление или удаление новых функций.
 Стоп. Это же просто заметки. В итоге выбор пал на Simplenote, т.к. он синхронизируются с nvALT, который установлен на OS X.  Синхронизация через Dropbox, хранение заметок в plain text файлах.
 
@@ -65,13 +65,13 @@ tags:
 *Камера.app*
 Снимаю в 90% через штатное приложение. Когда его не хватает, прибегаю к дополнительным приложениям.
 
-*[Дзен-мани](https://itunes.apple.com/ru/app/expense-manager-zenmoney./id905934786?l=en&mt=8)*
+*[Дзен-мани](https://geo.itunes.apple.com/ru/app/dzen-mani-ucet-rashodov-dolgov/id905934786?mt=8&at=1001l9qh&ct=blog)*
 Года 4 я вел семейный бюджет через Jumsoft Money. В конце 2014 начал изучать остальные приложения в сегменте, в итоге остановился на Дзен-мани. Пока все нравится.
 
-*[Day One](https://itunes.apple.com/ru/app/day-one-journal-notes-diary/id421706526?l=en&mt=8)*
-Личный дневник. Стараюсь писать туда только положительные эмоции. Есть версия и для OS X, но iOS позволяет начать заметку здесь и сейчас, сделать фотографию. А на десктопе уже можно дописать или отредактировать.
+*[Day One](https://geo.itunes.apple.com/ru/app/day-one-zurnal-dnevnik/id421706526?mt=8&at=1001l9qh&ct=blog)*
+Личный дневник. Стараюсь писать туда только положительные эмоции. Есть версия и для [OS X](https://geo.itunes.apple.com/ru/app/day-one/id422304217??mt=8&at=1001l9qh&ct=blog), но iOS позволяет начать заметку здесь и сейчас, сделать фотографию. А на десктопе уже можно дописать или отредактировать.
 
-*[SoundHound (версия без рекламы)](https://itunes.apple.com/ru/app/soundhound/id284972998?l=en&mt=8)*
+*[SoundHound (версия без рекламы)](https://geo.itunes.apple.com/ru/app/soundhound-muzyka-najdi-lubimye/id284972998?mt=8&at=1001l9qh&ct=blog)*
 Что за трек играет? Программа обязательно найдет исполнителя и название песни.
 
 *Настройки.app*
@@ -83,12 +83,12 @@ tags:
 ![](/images/2015/02/screen2-1.png){: .center-image .responsive-image }
 ![](/images/2015/02/screen2-2.png){: .center-image .responsive-image }
 
-*[Scanbot](https://itunes.apple.com/ru/app/scanbot-document-scanner-qr/id834854351?l=en&mt=8)*
+*[Scanbot](https://geo.itunes.apple.com/ru/app/skaner-dokumentov-qr-kodov/id834854351?mt=8&at=1001l9qh&ct=blog)*
 Программа - один из элементов электронного документооборота. Выбрал именно её из тысячи подобных из-за грамотного UI и UX. Плюс работа с большинством облачных сервисов. Купил Pro версию, но распознаванием текста недоволен. Особой необходимости в Pro не вижу.
 *App Store.app*
 Магазин приложений от Apple.
 
-*[1Password](https://itunes.apple.com/ru/app/1password-password-manager/id568903335?l=en&mt=8 )*
+*[1Password](https://geo.itunes.apple.com/ru/app/1password/id568903335?mt=8&at=1001l9qh&ct=blog)*
 Менеджер паролей. Открыла второе дыхание после выхода iOS8 с экстеншенами. Альтернатив нет. Приложение из ряда "маст хэв".
 
 *Safari.app*
@@ -97,43 +97,43 @@ tags:
 **Второй экран / папка Навигация**:
 
 Здесь все приложения от Яндекс. По Москве монополист. Отдельного описания не будет, т.к. все понятно из названия.
-*[Яндекс Навигатор](https://itunes.apple.com/ru/app/yandex.navigator/id474500851?l=en&mt=8)*
-*[Яндекс Метро](https://itunes.apple.com/ru/app/yandex.metro/id392589075?l=en&mt=8)*
-*[Яндекс Транспорт](https://itunes.apple.com/ru/app/andeks.transport/id826358136?l=en&mt=8)*
+*[Яндекс Навигатор](https://geo.itunes.apple.com/ru/app/andeks.navigator/id474500851?mt=8&at=1001l9qh&ct=blog)*
+*[Яндекс Метро](https://geo.itunes.apple.com/ru/app/andeks.metro/id392589075?mt=8&at=1001l9qh&ct=blog)*
+*[Яндекс Транспорт](https://geo.itunes.apple.com/ru/app/andeks.transport/id826358136?mt=8&at=1001l9qh&ct=blog)*
 
 **Второй экран / папка Общение**:
 
 Держу из-за друзей/членов семьи с Android. В большинстве общаюсь только через iMessage. Из сторонних программ больше всего нравится Telegram.
 
-*[WhatsApp](https://itunes.apple.com/ru/app/whatsapp-messenger/id310633997?l=en&mt=8)*
+*[WhatsApp](https://geo.itunes.apple.com/ru/app/whatsapp-messenger/id310633997?mt=8&at=1001l9qh&ct=blog)*
 
-*[Viber](https://itunes.apple.com/ru/app/viber/id382617920?l=en&mt=8)*
+*[Viber](https://geo.itunes.apple.com/ru/app/viber/id382617920?mt=8&at=1001l9qh&ct=blog)*
 Очень не люблю этого клиента. Больше всего раздражают промо уведомления про стикеры.
 
-*[Telegram](https://itunes.apple.com/ru/app/telegram-messenger/id686449807?l=en&mt=8)*
+*[Telegram](https://geo.itunes.apple.com/ru/app/telegram-messenger/id686449807?mt=8&at=1001l9qh&ct=blog)*
 Для меня это лучше мессенджер после iMessage.
 
 *[Мои друзья](https://itunes.apple.com/ru/app/find-my-friends/id466122094?l=en&mt=8)*
 Использую редко, когда встречаемся с друзьями. Удобно, когда можно узнать, что друг уже подъехал к твоему дому :). Короткой строкой - нужно чаще встречаться с друзьями и меньше использовать это приложение. В очередь на удаление.
 
 **Второй экран / папка Деньги**:
-*[Сбербанк Онлайн](https://itunes.apple.com/ru/app/sberbank-onlajn/id492224193?l=en&mt=8)*
+*[Сбербанк Онлайн](https://geo.itunes.apple.com/ru/app/sberbank-onlajn/id492224193?mt=8&at=1001l9qh&ct=blog)*
 Мне гораздо быстрее и проще воспользоваться клиентом с телефона, чем Web-версией. Перевод денег, оплата и прочее.
 
-*[QIWI](https://itunes.apple.com/ru/app/visa-qiwi-wallet/id350905609?l=en&mt=8)*
+*[QIWI](https://geo.itunes.apple.com/ru/app/visa-qiwi-wallet-elektronnyj/id350905609?mt=8&at=1001l9qh&ct=blog)*
 Был период когда активно пользовался, сейчас там всегда ближе к нулю. Ещё один кандидат на удаление.
 
-*[МегаФон. Личный кабинет](https://itunes.apple.com/ru/app/megafon-licnyj-kabinet/id778681735?l=en&mt=8)*
+*[МегаФон. Личный кабинет](https://geo.itunes.apple.com/ru/app/megafon-licnyj-kabinet/id778681735?mt=8&at=1001l9qh&ct=blog)*
 Приложение служит одной цели - посмотреть баланс. По-умолчанию, USSD запрос показывает баланс с подключенным кредитным лимитом, для меня это не удобно. А здесь открыл и посмотрел. Кстати, приложение Acrobit Softphone отображает баланс при подключенном мультифоне.
 
 **Второй экран / папка Здоровье**:
 *Здоровье.app*
 Вбиваю вручную ежедневного взвешивания. Стараюсь следить за весом, чтобы не разжиреть.
 
-*[FitPort](https://itunes.apple.com/ru/app/fitport-your-fitness-dashboard/id914413310?l=en&mt=8)*
+*[FitPort](https://geo.itunes.apple.com/ru/app/fitport-your-fitness-dashboard/id914413310?mt=8&at=1001l9qh&ct=blog)*
 Одно из самых симпатичных приложений для просмотра статистики из Health.app. Одно из бесполезных приложений.
 
-*[iHealth](https://itunes.apple.com/ru/app/ihealth-myvitals/id566815525?l=en&mt=8)*
+*[iHealth](https://geo.itunes.apple.com/ru/app/ihealth-myvitals-2.0/id881296227?mt=8&at=1001l9qh&ct=blog)*
 У меня есть весы iHealth, которые самостоятельно синхронизируются с iOS. Но по факту это не работает. Весы поддерживают несколько пользовательских профилей, т.е. мы взвешиваемся всей семьей и для каждого заведен свой профиль.
 Но вот с синхронизацией беда - она по bluetooth только с одним телефоном. Мой iPhone спарен с весами, я раз в неделю "собираю" данные для профилей жены и ребенка. Дальше программа через свой сервер синхронизации доставляет данные на телефон жены. Но здесь неприятный момент, когда я собираю данные для профиля жены и ребенка, программа добавляет их вес в мой Health.app. Пришлось отключить и вбивать руками. Короче, весы с синхронизацией - бесполезная трата денег.
 
@@ -143,26 +143,26 @@ tags:
 
 **Третий экран / папка Экстра**:
 
-*[Google Authenticator](https://itunes.apple.com/ru/app/google-authenticator/id388497605?l=en&mt=8)*
+*[Google Authenticator](https://geo.itunes.apple.com/ru/app/google-authenticator/id388497605?mt=8&at=1001l9qh&ct=blog)*
 Приложение для двух-фактороной авторизации. Dropbox, Github, Evernote и прочие.
 
-*[Acrobits Softphone](https://itunes.apple.com/ru/app/acrobits-softphone-sip-phone/id314192799?l=en&mt=8)*
+*[Acrobits Softphone](https://geo.itunes.apple.com/ru/app/acrobits-softphone-sip-phone/id314192799?mt=8&at=1001l9qh&ct=blog)*
 Пожалуй, лучший voip-клиент для iOS. Куплен кодек g729.
 Подключен мультифон от мегафона.
 
-*[Dropbox](https://itunes.apple.com/ru/app/dropbox/id327630330?l=en&mt=8)*
+*[Dropbox](https://geo.itunes.apple.com/ru/app/dropbox/id327630330?mt=8&at=1001l9qh&ct=blog)*
 iOS клиент, установлен для синхронизации приложений. Иногда нужно что-то посмотреть, т.к. все сканы документов храним именно в Dropbox. Подписка на 1Tb.
 
 **Третий экран / папка Фотография**:
 Этот раздел - первый на вылет. Большинство приложений я использую только в отпуске.
 
-*[ProCamera](https://itunes.apple.com/ru/app/procamera-8-+-hdr/id694647259?l=en&mt=8)*
+*[ProCamera](https://geo.itunes.apple.com/ru/app/procamera-+-hdr/id694647259?mt=8&at=1001l9qh&ct=blog)*
 Мне очень понравился дополнительный режим HDR. Держу только из-за него.
 
-*[Hyperlapse from Instagram](https://itunes.apple.com/ru/app/hyperlapse-from-instagram/id740146917?l=en&mt=8)*
+*[Hyperlapse from Instagram](https://geo.itunes.apple.com/ru/app/hyperlapse-ot-instagram/id740146917?mt=8&at=1001l9qh&ct=blog)*
 Свой прошлый отпуск я снял исключительно на это приложение. Получился 20 минутный гиперлапс. Стандартная камера не позволяет настраивать скорость гиперлапса, поэтому пользуюсь приложением от Instagram.
 
-*[Carousel by Dropbox](https://itunes.apple.com/ru/app/carousel-by-dropbox/id825931374?l=en&mt=8)*
+*[Carousel by Dropbox](https://geo.itunes.apple.com/ru/app/carousel-by-dropbox/id825931374?mt=8&at=1001l9qh&ct=blog)*
 Удобная работа с фотоархивом от создателей Dropbox. Я включил автозагрузку фотографий с iPhone. Программа показывает все фотографии из Dropbox в хронологическом порядке, позволяет делиться фотографиями с другими пользователями. Есть необычный режим воспоминаний - приложение открывается и показывает фотографии сделанные несколько лет назад, в период неделю-две от текущей даты. Кладовая семейных воспоминаний.
 
 Все остальные предустановленные приложения от Apple, спрятаны в одну папку.
