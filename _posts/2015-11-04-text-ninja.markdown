@@ -100,7 +100,7 @@ tags:
 Если времени нет, то расскажу свои ощущения. 
 
 ## Text Expander за $44,95
-Самая популярная программа - [Text Expander](https://smilesoftware.com/TextExpander/index.html). Приложение регулярно рекламируется в сообществе пользователей OS X. Ребята из Smile единственные, кто выпустил версию для iOS с синхронизацией с десктопной версией. 
+Самая популярная программа - [Text Expander](https://smilesoftware.com/TextExpander/index.html). Приложение регулярно рекламируется в сообществе пользователей OS X. Ребята из Smile единственные, кто [выпустил версию для iOS](https://geo.itunes.apple.com/ru/app/textexpander-3-+-custom-keyboard/id917416298?mt=8&at=1001l9qh&ct=blog) с синхронизацией с десктопной версией. 
 
 Благодаря выигрышу в конкурсе в блоге [Влада Гороховского](http://macosworld.ru/textexpander-4/), я стал обладателем Text Expander for Mac. Возможности программы удовлетворят самого требовательного пользователя: 
 
