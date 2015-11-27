@@ -100,9 +100,9 @@ tags:
 Если времени нет, то расскажу свои ощущения. 
 
 ## Text Expander за $44,95
-Самая популярная программа - [Text Expander](https://smilesoftware.com/TextExpander/index.html). Приложение регулярно рекламируется в сообществе пользователей OS X. Ребята из Smile единственные, кто [выпустил версию для iOS](https://geo.itunes.apple.com/ru/app/textexpander-3-+-custom-keyboard/id917416298?mt=8&at=1001l9qh&ct=blog) с синхронизацией с десктопной версией. 
+Самая популярная программа - [Text Expander](http://smile.7eer.net/c/205980/155222/2936). Приложение регулярно рекламируется в сообществе пользователей OS X. Ребята из Smile единственные, кто [выпустил версию для iOS](https://geo.itunes.apple.com/ru/app/textexpander-3-+-custom-keyboard/id917416298?mt=8&at=1001l9qh&ct=blog) с синхронизацией с десктопной версией. 
 
-Благодаря выигрышу в конкурсе в блоге [Влада Гороховского](http://macosworld.ru/textexpander-4/), я стал обладателем Text Expander for Mac. Возможности программы удовлетворят самого требовательного пользователя: 
+Благодаря выигрышу в конкурсе в блоге [Влада Гороховского](http://macosworld.ru/textexpander-4/), я стал обладателем [Text Expander for Mac](http://smile.7eer.net/c/205980/155222/2936). Возможности программы удовлетворят самого требовательного пользователя: 
 
 - подстановка текста, 
 - создание сложных форм с выпадающими списками, 
@@ -117,7 +117,7 @@ tags:
 - поддержка русского языка.
 Готовые словари со сниппетами без труда найдете в интернете.
 
->Хочешь стать нинздя? Прочти книгу [Take Control of TextExpander](https://smilesoftware.com/TextExpander/takecontrol.html).
+>Хочешь стать нинздя? Прочти книгу [Take Control of TextExpander](http://smile.7eer.net/c/205980/155222/2936).
 
 ## Typinator за €24.99
 После перехода на El Capitan пользуюсь [Typinator](http://www.ergonis.com/products/typinator/). Покупку обнаружил в бандле от [StackSocial](https://stacksocial.com/sales/pay-what-you-want-mac-bundle-ft-typinator). Умеет почти все тоже самое, но нет возможности создать выпадающий список для выбора значений из группы. Кстати, программа существует с 2005 года.
