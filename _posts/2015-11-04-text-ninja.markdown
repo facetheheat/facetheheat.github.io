@@ -144,7 +144,7 @@ tags:
 Если появились вопросы и предложения отвечайте в комментариях.
 
 # Хотите получить Text Expander 5 бесплатно?
-[![](http://adn.impactradius.com/display-ad/2936-157870){: .center-image .responsive-image }](http://smile.7eer.net/c/205980/157870/2936)
+[![](/images/2015/11/2936-157870.jpeg){: .center-image .responsive-image }](http://smile.7eer.net/c/205980/157870/2936)
 
 
 Компания SmileSoftware предоставила два redeem кода для [Text Expander for Mac (4000р/44$).](http://smile.7eer.net/c/205980/155222/2936)
