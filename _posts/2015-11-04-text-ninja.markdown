@@ -153,7 +153,29 @@ tags:
 
 Коды будут разыграны в четверг (12 декабря) среди посетителей, оставивших комментарий к статье.
 
+**update!** Конкурс завершен
 
+#⌘⌘⌘
+Друзья, пришло время объявить победителей! 
+В честь открытия [Swift.org](http://swift.org) генератор победителей написан на Swift.
+```
+import Foundation
+let diceRoll = Int(arc4random_uniform(18) + 1)
+print(diceRoll)
+```
 
+Итак, генератор выбрал 2 комментария из 18, вот номера счастливчиков:  
+
+- №14 Valdos Sine [@fat0troll](https://twitter.com/fat0troll)
+- №1 Paul Elms [@vyazovoi](https://twitter.com/vyazovoi)
+
+Поздравляем победителей! Каждый из них получает redeem код
+на бесплатную персональную версию Text Expander for Mac 5!
+
+Заглядывайте в мой блог, пишите в твиттер [@previewthenew](https://twitter.com/previewthenew)! 
+
+Отдельное спасибо всем кто помогал ретвитами, особенно [@juev](https://twitter.com/juev) и [@macoswolrd](https://twitter.com/macoswolrd)!
+
+Ребята, кто не выиграл. Не расстраивайтесь, сейчас действует специальная [акция на Text Expander 5 (50%)](https://stacksocial.com/sales/textexpander-5-for-mac?rid=434855)! Есть повод приобрести качественный продукт с хорошей скидкой!
 
 
