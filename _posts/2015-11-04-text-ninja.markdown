@@ -158,11 +158,11 @@ tags:
 #⌘⌘⌘
 Друзья, пришло время объявить победителей! 
 В честь открытия [Swift.org](http://swift.org) генератор победителей написан на Swift.
-```
+{% highlight bash lineanchors %}
 import Foundation
 let diceRoll = Int(arc4random_uniform(18) + 1)
 print(diceRoll)
-```
+{% endhighlight %}
 
 Итак, генератор выбрал 2 комментария из 18, вот номера счастливчиков:  
 
