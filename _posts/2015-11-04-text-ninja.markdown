@@ -174,7 +174,7 @@ print(diceRoll)
 
 Заглядывайте в мой блог, пишите в твиттер [@previewthenew](https://twitter.com/previewthenew)! 
 
-Отдельное спасибо всем кто помогал ретвитами, особенно [@juev](https://twitter.com/juev) и [@macoswolrd](https://twitter.com/macoswolrd)!
+Отдельное спасибо всем кто помогал ретвитами, особенно [@juev](https://twitter.com/juev) и [@macosworld](https://twitter.com/macosworld)!
 
 Ребята, кто не выиграл. Не расстраивайтесь, сейчас действует специальная [акция на Text Expander 5 (50%)](https://stacksocial.com/sales/textexpander-5-for-mac?rid=434855)! Есть повод приобрести качественный продукт с хорошей скидкой!
 
