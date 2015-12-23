@@ -1,0 +1,213 @@
+---
+layout: post
+title: Лучшие приложения для OS X в 2015
+date: '2015-12-24 13:49:27'
+tags: 
+- Mac
+---
+
+Ежегодный обзор программ для OS X, которыми я пользуюсь и рекомендую для использования.   
+Приложений очень много, запасайтесь попкорном.
+
+![](/images/2015/12/Mac2015_800.png){: .center-image .responsive-image }
+
+Предыдущая заметка за [**2014 год**](http://pavel.miroshnichen.co/2015/01/17/setup-2015/).
+
+# Powered by
+[**OS X 10.11 El Capitan**](https://itunes.apple.com/ru/app/os-x-el-capitan/id1018109117?mt=12&uo=4&at=1001l9qh&ct=blog) и MacBook Pro 2013
+
+# Изменения с 2014 годом
+
+###Новые приложения
+
+- [Focused (ex. Typed)](https://itunes.apple.com/ru/app/focused-minimal-writing-app/id899966452?mt=12&uo=4&at=1001l9qh&ct=blog)
+- [2Do](https://itunes.apple.com/ru/app/2do/id477670270?mt=12&uo=4&at=1001l9qh&ct=blog)
+- [Quiver](https://itunes.apple.com/ru/app/quiver-programmers-notebook/id866773894?mt=12&uo=4&at=1001l9qh&ct=blog)
+- [PDF Expert by Readdle](https://itunes.apple.com/ru/app/pdf-expert-by-readdle/id1055273043?mt=12&uo=4&at=1001l9qh&ct=blog)
+- [MonthlyCal](https://itunes.apple.com/ru/app/monthlycal-colorful-monthly/id935250717?mt=12&uo=4&at=1001l9qh&ct=blog)
+- [Typinator](http://www.ergonis.com/products/typinator/)
+- [MacID](http://macid.co)
+- [Camtasia](https://www.techsmith.com/camtasia.html)
+- [TweetBot](https://itunes.apple.com/ru/app/tweetbot-for-twitter/id557168941?mt=12&uo=4&at=1001l9qh&ct=blog)
+- [iThoughtsX](https://itunes.apple.com/ru/app/ithoughtsx/id720669838?mt=12&uo=4&at=1001l9qh&ct=blog)
+- [Soulver](https://itunes.apple.com/ru/app/soulver/id413965349?mt=12&uo=4&at=1001l9qh&ct=blog)
+- [Magnet](https://itunes.apple.com/ru/app/magnet/id441258766?mt=12&uo=4&at=1001l9qh&ct=blog)
+- [Pixelmator](https://itunes.apple.com/ru/app/pixelmator/id407963104?mt=12&uo=4&at=1001l9qh&ct=blog)
+
+### Заброшенные приложения
+- **_Fantastical_**  
+После выпуска второй версии не стал делать апдейт. Календарь за $45? Спасибо, не нужно. Устраивает штатный Calendar.app и виджет MonthlyCal
+- **_Bartender 2_**  
+С выходом 10.11 перестал пользоваться Bartender. Причина - в El Capitan добавили автоматическое скрытие менюбара. Большое количество иконок не пугает и не отвлекает, т.к. меню всегда скрыто, но доступно по наведению курсора.
+- **_Dash_**  
+Не стал приобретать обновление, перешел сначала на Snippets Lab, а теперь на Quiver.
+- **_Moom_**  
+Хороший менеджер. Решил попробовать Magnet, принципиальной разницы нет. Можно использовать и бесплатные аналоги (если есть).
+- **_Evernote_**  
+Давно хотел отказаться от слона. Под конец 2015 выстрелил Quiver,
+на него и ушел. Да, теперь нет распознавания текста в PDF, но мне это не нужно. 
+- **_Stache_**  
+Занес закладки и ссылки, больше программу не открывал. Не для меня,
+всю интересную информацию заношу в Quiver.
+- **_Things_**  
+2Do растоптал Things. Навигация, фильтры, идеология - все это для меня в 2Do сделано лучше.
+- **_YouType_**  
+Посредственный софт. Странно, что он попал в прошлый обзор. Для меня программа бесполезная.
+- **_[Dropbox](https://db.tt/vxSlAY4l)_**  
+Нет, со мной все хорошо. Просто отказался от платной подписки на 1Тб, сейчас доступно 22Гб. Использую для синхронизации приложений: 2Do, Due, LaunchCenter Pro и прочих. Основной документооборот переехал на Bittorrent Sync.
+- **_fb2conv_**  
+Конвертер перестал работать на El Capitan, на смену вышел форк fb2mobi.
+- **_nvALT_**  
+Блокнот для текстовых заметок. Очень классный и легкий, но без обновлений. Перешел на Quiver.
+
+
+# Полный список программ за 2015 год
+
+## «Стандартные приложения»
+- *Safari.app* - браузер по-умолчанию.
+- *Mail.app* - почтовый клиент.
+- *Messages.app* - сообщения.
+- *Calendar.app* - штатный календарь.
+- *Dictionary.app* - словарь с установленными словарями от Abbyy. Куплен [Lingvo Dictionary](https://geo.itunes.apple.com/ru/app/lingvo-dictionary/id467622356?mt=12&uo=4&at=1001l9qh&ct=blog), но пользоваться им неудобно. Мне привычнее использовать встроенный словарь, выделяя неизвестное слово и 3 тапа по тачпаду.
+- *Finder.app* - работа с файлами и документами.
+- *Preview.app* - приложение для просмотра картинок и PDF.
+- *Console.app* - просмотр логов.
+- *Activity Monitor.app* - мониторинг процессов в системе.
+- *Xcode.app* - разработка.
+- *Script Editor.app* - создание AppleScript'ов для автоматизации.
+- *Automator.app* - сервисы и автоматизация в OS X.
+
+## Коллекция «Обязательные»
+[1Password](https://geo.itunes.apple.com/ru/app/1password/id443987910?mt=12&uo=4&at=1001l9qh&ct=blog)  
+Культовый менеджер хранения паролей. Использую с 2010 года (1Password 3). Безопасное хранение паролей, логинов, секретных заметок. Поддержка одноразовых паролей для авторизации(One Time Passwords). Моя статья [«Как я использую 1Password».](http://pavel.miroshnichen.co/2015/03/05/1password/).
+
+[Little Snitch](http://obdev.at/littlesnitch)  
+Важная программа. Отслеживает любые исходящие и входящие соединения, позволяет держать руку на пульсе. Блокирую приложения со сбором статистики, разделяю подключения по Wi-Fi/Mobile сетям.
+
+[Sublime Text](http://www.sublimetext.com/)  
+Классный редактор кода и текста. Поддержка вертикального выделения, множественных курсоров, тонны плагинов и тем. Sublime - самый быстрый текстовый GUI редактор. К сожалению, будущее редактора очень туманно. Моя заметка [«Как находить опечатки при работе в Sublime Text»](http://pavel.miroshnichen.co/2015/03/08/sublime-text-cyrillic/)
+
+[LaunchBar 6](http://obdev.at/launchbar/)  
+Удобный и функциональный лаунчер (заменяет мне Spotlight). Краткий список возможностей:
+- _запуск приложений,_
+- _поиск файлов и папок (строит свой индекс, а не Spotlight),_
+- _открытие документов и папок,_
+- _дополнительные действия над объектами,_
+- _навигация по файловой системе,_
+- _и многое другое._
+Всегда можно написать свой Action на Swift, AppleScript, JavaScript, Python, Ruby.   
+Моя статья [«Впечатляющие возможности LaunchBar»](http://pavel.miroshnichen.co/2015/03/25/launchbar6/)
+
+[iTerm2](http://iterm2.com/)  
+Неплохой терминал с гибкими настройками. В третьей версии будем много плюшек.
+
+[Homebrew](http://brew.sh/)  
+Пакетный менеджер для OS X.
+
+#### [BitTorrent Sync](http://www.getsync.com)    
+![](/images/2015/12/btsync_window.jpg){: .center-image .responsive-image }
+Использую на полную катушку. Весь семейный документооборот работает через btsync. Централизованным устройством выступает NAS Synology DS 215j. Подробнее я писал в своих статьях: [«Как хранить фотоархив»](http://pavel.miroshnichen.co/2015/08/24/about-backup/) и [«Bittorent Sync: полный контроль над фотографиями»](http://pavel.miroshnichen.co/2015/11/08/bittorrentsync/).
+C этого года купил две лицензии.
+
+## Коллекция «Для души и Мака»
+[Code Runner 2](https://itunes.apple.com/ru/app/coderunner-2/id955297617?mt=12&uo=4&at=1001l9qh&ct=blog)  
+Пишу скрипты в Sublime, а тестирую в CodeRunner. Сейчас использую реже, но программу очень люблю. Автор предлагает бесплатное обновление до второй версии MAS пользователям.
+
+[Patterns](https://itunes.apple.com/ru/app/patterns-the-regex-app/id429449079?mt=12&uo=4&at=1001l9qh&ct=blog)  
+Помощник в регулярных выражениях.
+
+####[Snippets Lab](https://itunes.apple.com/ru/app/snippetslab/id1006087419?mt=12&uo=4&at=1001l9qh&ct=blog)    
+![](/images/2015/12/snippetslab.png){: .center-image .responsive-image }
+Ещё один менеджер сниппетов. Симпатичный и функциональный, автор открыт к доработкам и пожеланиям. Скорее всего перейду полностью на Quiver.
+
+#### [Quiver](https://itunes.apple.com/ru/app/quiver-programmers-notebook/id866773894?mt=12&uo=4&at=1001l9qh&ct=blog)    
+![](https://raw.githubusercontent.com/facetheheat/quiver-themes/master/Lighter_Purple_preview.png){: .center-image .responsive-image }
+Достойный преемник моего любимого nvALT, который заменил мне его вместе с Evernote. Хранит заметки в формате JSON. Киллер фича - поддержка разных типов текста в одной заметке. В одной заметке можно вставить разные блоки текста: markdown, code, plain text, latex, диаграммы, прикрепить изображения. Крайне рекомендую посмотреть на этот «блокнот». 
+
+[MacID](http://macid.co)     
+Использую для обмена «буферами» между iPhone и OS X, но основное предназначение программы другое. В отличие от похожих программ(например, Copied), обмен происходит через Bluetooth и данные не утекают к «дяде в облака». 
+
+[Hazel](http://www.noodlesoft.com/hazel.php)  
+«Бесшумный убийца» для автоматизации задач. Скрыто и безболезненно выполняет все ваши задания. Какой это крутой инструмент читайте в статьях [«Освобождаем место на SSD при помощи Dropbox, Hazel и Python»](http://pavel.miroshnichen.co/2015/02/02/hazel-ios-apps/) и [«Настраиваем Hazel - автоматизатор для Mac»](http://pavel.miroshnichen.co/2015/11/11/hazelrocks/).
+
+[DaisyDisk 4](https://geo.itunes.apple.com/ru/app/daisydisk/id411643860?mt=12&uo=4&at=1001l9qh&ct=blog)  
+Программа для визуального отображения занятого места на диске. Новая версия (Daisy Disk 4) работает очень быстро, я записал видео, доступно в анонсе [Daisy Disk 4](http://pavel.miroshnichen.co/2015/09/03/daisydisk/).
+
+[fb2mobi](https://github.com/rupor-github/fb2mobi)  
+Конвертер книг для Amazon Kindle. Про настройку этой утилиты читайте в статье Дениса Евсюкова [«Конвертация книг с использованием fb2mobi»](http://www.juev.org/2015/10/28/fb2mobi/)
+
+[Paragon VMDK Mounter](http://www.paragon-software.com/home/vd-mounter-mac-free/)  
+Позволяет монтировать виртуальные диски от Vmware Fusion. Использую редко, но инструмент экономит массу времени. Подробнее в моей заметке [«Работа с контейнерами VMDK»](http://pavel.miroshnichen.co/2015/07/17/vmdk-mounter-for-mac/).
+
+####[iThoughtsX](https://itunes.apple.com/ru/app/ithoughtsx/id720669838?mt=12&uo=4&at=1001l9qh&ct=blog)  
+
+![](https://raw.githubusercontent.com/facetheheat/ithoughtsx-themes/master/images/filmed_thin_demo.png){: .center-image .responsive-image }
+
+Фиксирую мысли не только словами, а создаю визуальные идеи. Ментальные карты позволяют разложить мысли по полочкам, позволяют креативно подойти к решению любых задач. 
+Приложение очень функциональное, но аскетично выглядит. Пришлось сделать парочку своих тем, [выложил на Gitgub'e](https://github.com/facetheheat/ithoughtsx-themes).
+
+[2Do](https://itunes.apple.com/ru/app/2do/id477670270?mt=12&uo=4&at=1001l9qh&ct=blog)  
+Лучший менеджер задач. Требует написания отдельной заметки. Я пробовал разные менеджеры: Things, OmniFocus, TaskPaper, но не смог привыкнуть к интерфейсам. 2Do - идеальный инструмент на данный момент. Подробная статья на Macstories [«Why 2Do Is My New Favorite iOS Task Manager»](https://www.macstories.net/stories/why-2do-is-my-new-favorite-ios-task-manager/)
+
+[Focused (ex. Typed)](https://itunes.apple.com/ru/app/focused-minimal-writing-app/id899966452?mt=12&uo=4&at=1001l9qh&ct=blog)  
+Замечательный Markdown редактор с концентрацией на тексте. Все свои тексты я набираю именно в нем. Расслаблаяющая музыка, горячие клавиши, минимальное отвлечение при наборе текста, фокусировка на определенном абзаце текста. Есть и другие редакторы (iA Writer, Byword, Ulysses), но я привык к Focused.
+
+#### [Day One](https://geo.itunes.apple.com/ru/app/day-one/id422304217?mt=12&uo=4&at=1001l9qh&ct=blog)  
+![](/images/2015/09/Screen-Shot-2015-09-09-at-00-08-22.png){: .center-image .responsive-image }
+Дневник для ведения общих записей с супругой. Фотографии, забавные моменты, смешные перлы от ребенка. 
+
+[MonthlyCal](https://itunes.apple.com/ru/app/monthlycal-colorful-monthly/id935250717?mt=12&uo=4&at=1001l9qh&ct=blog)  
+Виджет календаря для сайдбара Today. Устраивает на 100%. Благодаря MonthlyCal отказался от первой версии Fantastial.
+
+[PDF Expert by Readdle](https://itunes.apple.com/ru/app/pdf-expert-by-readdle/id1055273043?mt=12&uo=4&at=1001l9qh&ct=blog)  
+Лучший инструмент для работы с pdf-документами. Preview.app не достаточно быстро рендерит даже легкие PDF. А редактор от Readdle отличается современным дизайном с табами и очень быстро открывает любые PDF. Работа с несколькими документами превращается в удовольствие.
+Microsoft Office
+
+[Soulver](https://itunes.apple.com/ru/app/soulver/id413965349?mt=12&uo=4&at=1001l9qh&ct=blog)  
+Хитрый калькулятор. Превращает текст в цифры и не только. Пользуюсь редко, чтобы отправить расшифровку расходов по поездке или составить смету на покупку железа. Еще можно измерять китов в слонах, если это кому-нибудь нужно.
+
+
+
+#### [Typinator](http://www.ergonis.com/products/typinator/)  
+![](/images/2015/11/group_utf8.gif){: .center-image .responsive-image }
+Клавиатурный ниндзя. Легко освоить. Легко пользоваться. [Моя статья на эту тему](http://pavel.miroshnichen.co/2015/11/05/text-ninja/).
+
+[Magnet](https://itunes.apple.com/ru/app/magnet/id441258766?mt=12&uo=4&at=1001l9qh&ct=blog)  
+Приятный оконный менеджер для организации рабочего пространства. 
+
+[TweetBot](https://itunes.apple.com/ru/app/tweetbot-for-twitter/id557168941?mt=12&uo=4&at=1001l9qh&ct=blog)  
+Популярный твиттер клиент. А в Safari я [заблокировал твиттер.](http://pavel.miroshnichen.co/2015/07/20/tweetbot-for-mac/)
+
+[Camtasia](https://www.techsmith.com/camtasia.html)  
+Приложение для создания скринкастов. Несколько лет назад использовал все возможности программы по назначению. Недавно вспомнил про него и активно использую только для создания GIF'ok. Очень удобно записать видео с экрана и экспортировать в *.gif.
+Надеюсь, Вы тоже заценили гифки в блоге :)
+
+[Pixelmator](https://itunes.apple.com/ru/app/pixelmator/id407963104?mt=12&uo=4&at=1001l9qh&ct=blog)  
+Графический редактор. В планах изучить подробнее этот редактор, пока пользуюсь для ресайза и кропа изображений. Использую версию от MacFormat.
+
+### Список из 2014 года
+Смысла описывать одно и тоже нет, просто оставлю список программ, которыми я пользуюсь, но описание смотрите в предыдущей заметке [«Моя подборка программ для Mac за 2014 год»](http://pavel.miroshnichen.co/2015/01/17/setup-2015/).
+
+- [Kaleidoscope](https://geo.itunes.apple.com/ru/app/kaleidoscope/id587512244?mt=12&uo=4&at=1001l9qh&ct=blog)  
+- [Versions](http://versionsapp.com)  
+- [VMware Fusion](http://www.vmware.com/ru/products/fusion)
+- [TeamViewer](http://www.teamviewer.com/ru/)
+- [Paragon NTFS for Mac](http://www.paragon.ru/home/ntfs-mac/ )
+- [The Unarchiver](https://geo.itunes.apple.com/ru/app/the-unarchiver/id425424353?mt=12&uo=4&at=1001l9qh&ct=blog)
+- [Transmit 4](https://geo.itunes.apple.com/ru/app/transmit/id403388562?mt=12&uo=4&at=1001l9qh&ct=blog) 
+- [Forklift 2](https://geo.itunes.apple.com/ru/app/forklift-file-manager-ftp/id412448059?mt=12&uo=4&at=1001l9qh&ct=blog)
+- [Transmission](https://www.transmissionbt.com)
+- [VLC](http://www.videolan.org/vlc/)
+- [Skype](http://www.skype.com)
+
+# ⌘ Подводим итоги
+
+![Затраты в 2015 году ](/images/2015/12/SUM.png){: .center-image .responsive-image }
+
+
+# Похожие статьи других авторов
+[«Программы для OS X 2015»](http://fluder.co/blog/2015/10/25/osx-setup-2015/) Александра Глущенко  
+[«Лучшие приложения для Mac (2015)»](http://macosworld.ru/best-mac-soft-2015/) Влада Гороховского  
+
+
+
