@@ -109,18 +109,20 @@ Drafts 4 был бы хорошим кандидатом, но в нем нет 
 
 
 # Группа 3: Дневник
-Дневник в электронном виде. Изначально я начал вести дневник в [**Day One**](https://geo.itunes.apple.com/ru/app/day-one-zurnal-dnevnik/id421706526?mt=8&at=1001l9qh&ct=blog)  один, размещая информацию различных сфер своей жизни: мысли, семейные фотографии, забавные моменты, впечатления и т.д.
+Дневник в электронном виде. Изначально я начал вести дневник в [**Day One**](https://geo.itunes.apple.com/ru/app/day-one-2-journal-+-notes/id1044867788?mt=8&uo=4&at=1001l9qh&ct=blog)  один, размещая информацию различных сфер своей жизни: мысли, семейные фотографии, забавные моменты, впечатления и т.д.
 
 ![](/images/2015/09/IMG_1116-3.PNG){: .center-image .responsive-image }
 
 Я начал замечать, что большую часть заметок занимают мгновения, связанные с ребенком. Было принято решение поделиться дневником с супругой, чтобы и она могла добавлять записи. Пришлось убрать все личные мысли в дневник [**Momento**](https://geo.itunes.apple.com/ru/app/momento-diary-journal/id980592846?mt=8&at=1001l9qh&ct=blog).
 
-Day One качественное приложение, заметки хранятся в plain-text, всегда можно перейти на любое другое приложение, сейчас это не требуется. Day One есть для обоих платформ, [OS X](https://geo.itunes.apple.com/ru/app/day-one/id422304217??mt=12&at=1001l9qh&ct=blog)
- & [iOS](https://geo.itunes.apple.com/ru/app/day-one-zurnal-dnevnik/id421706526?mt=8&at=1001l9qh&ct=blog).
+Day One качественное приложение, заметки хранятся в plain-text, всегда можно перейти на любое другое приложение, сейчас это не требуется. Day One есть для обоих платформ, [OS X](https://itunes.apple.com/ru/app/day-one/id1055511498?mt=12&uo=4&at=1001l9qh&ct=blog)
+ & [iOS](https://geo.itunes.apple.com/ru/app/day-one-2-journal-+-notes/id1044867788?mt=8&uo=4&at=1001l9qh&ct=blog).
 
 ![](/images/2015/09/Screen-Shot-2015-09-09-at-00-08-22.png){: .center-image .responsive-image }
 
 Почитать подробнее про Day One можно:
+
+- [Что нового в Day One 2](http://pavel.miroshnichen.co/2016/02/21/dayone/)
 
 - [Cерия постов о ведении дневника и приложении Day One](http://betteri.ru/post/anons-serii-postov-o-vedenii-dnevnika-i-prilozhenii-day-one.html)
 

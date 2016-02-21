@@ -68,8 +68,8 @@ tags:
 *[Дзен-мани](https://geo.itunes.apple.com/ru/app/dzen-mani-ucet-rashodov-dolgov/id905934786?mt=8&at=1001l9qh&ct=blog)*
 Года 4 я вел семейный бюджет через Jumsoft Money. В конце 2014 начал изучать остальные приложения в сегменте, в итоге остановился на Дзен-мани. Пока все нравится.
 
-*[Day One](https://geo.itunes.apple.com/ru/app/day-one-zurnal-dnevnik/id421706526?mt=8&at=1001l9qh&ct=blog)*
-Личный дневник. Стараюсь писать туда только положительные эмоции. Есть версия и для [OS X](https://geo.itunes.apple.com/ru/app/day-one/id422304217??mt=8&at=1001l9qh&ct=blog), но iOS позволяет начать заметку здесь и сейчас, сделать фотографию. А на десктопе уже можно дописать или отредактировать.
+*[Day One](https://geo.itunes.apple.com/ru/app/day-one-2-journal-+-notes/id1044867788?mt=8&uo=4&at=1001l9qh&ct=blog)*
+Личный дневник. Стараюсь писать туда только положительные эмоции. Есть версия и для [OS X](https://itunes.apple.com/ru/app/day-one/id1055511498?mt=12&uo=4&at=1001l9qh&ct=blog), но iOS позволяет начать заметку здесь и сейчас, сделать фотографию. А на десктопе уже можно дописать или отредактировать. Написал [заметку по случаю выхода второй версии](http://pavel.miroshnichen.co/2016/02/21/dayone/).
 
 *[SoundHound (версия без рекламы)](https://geo.itunes.apple.com/ru/app/soundhound-muzyka-najdi-lubimye/id284972998?mt=8&at=1001l9qh&ct=blog)*
 Что за трек играет? Программа обязательно найдет исполнителя и название песни.

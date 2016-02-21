@@ -152,9 +152,9 @@ C этого года купил две лицензии.
 [Focused (ex. Typed)](https://itunes.apple.com/ru/app/focused-minimal-writing-app/id899966452?mt=12&uo=4&at=1001l9qh&ct=blog)  
 Замечательный Markdown редактор с концентрацией на тексте. Все свои тексты я набираю именно в нем. Расслаблаяющая музыка, горячие клавиши, минимальное отвлечение при наборе текста, фокусировка на определенном абзаце текста. Есть и другие редакторы (iA Writer, Byword, Ulysses), но я привык к Focused.
 
-#### [Day One](https://geo.itunes.apple.com/ru/app/day-one/id422304217?mt=12&uo=4&at=1001l9qh&ct=blog)  
+#### [Day One](https://itunes.apple.com/ru/app/day-one/id1055511498?mt=12&uo=4&at=1001l9qh&ct=blog)  
 ![](/images/2015/09/Screen-Shot-2015-09-09-at-00-08-22.png){: .center-image .responsive-image }
-Дневник для ведения общих записей с супругой. Фотографии, забавные моменты, смешные перлы от ребенка. 
+Дневник для ведения общих записей с супругой. Фотографии, забавные моменты, смешные перлы от ребенка. Написал [заметку по случаю выхода второй версии](http://pavel.miroshnichen.co/2016/02/21/dayone/).
 
 [MonthlyCal](https://itunes.apple.com/ru/app/monthlycal-colorful-monthly/id935250717?mt=12&uo=4&at=1001l9qh&ct=blog)  
 Виджет календаря для сайдбара Today. Устраивает на 100%. Благодаря MonthlyCal отказался от первой версии Fantastial.
