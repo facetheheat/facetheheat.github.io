@@ -6,8 +6,9 @@ layout: null
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-    <link type="application/atom+xml" href="{{ site.baseurl }}/feed.xml" rel="self"/>
-    <link href="{{ site.baseurl }}/"/>
+    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
+    <link href="{{ site.url }}"/>
+
 
     {% for post in site.posts %}
       {% unless post.link %}
