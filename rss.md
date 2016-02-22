@@ -6,10 +6,10 @@ sitemap: false
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
+    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
     <link href="{{ site.url }}{{ site.baseurl }}"</>
     <atom:link href="{{ "/rss/" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}
+    {% for post in site.posts %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}</description>
