@@ -25,7 +25,7 @@ future:		      true
 disqus_shortname: pavelmiroshnichenko
 
 # Social icons
-github_username: 
+github_username:
 bitbucket_username:
 stackoverflow_id:
 twitter_username:
@@ -65,3 +65,4 @@ sass:
 gems:
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-redirect-from
