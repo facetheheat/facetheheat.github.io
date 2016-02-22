@@ -7,7 +7,7 @@ sitemap: false
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-    <link>{{ site.url }}</link>
+    <link>{{ "/rss/" | prepend: site.baseurl | prepend: site.url }}</link>
     <atom:link href="{{ "/rss/" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
     {% for post in site.posts %}
       <item>
