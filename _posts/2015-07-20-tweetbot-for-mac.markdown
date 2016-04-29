@@ -37,6 +37,6 @@ tags:
 Все!   
 Теперь при клике на твиттер ссылку она будет открываться в `Tweetbot`!
 
-⌘
+# ⌘ 
 
 Подписывайтесь на [@previewthenew](https://twitter.com/previewthenew) , не стесняйтесь.

@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: 'Клавиатурный ниндзя: Text Expander, Typinator или aText + Конкурс' 
+title: 'Клавиатурный ниндзя: Text Expander, Typinator или aText' 
 date: 2015-11-05 08:33:47 
 tags: 
 - Mac
@@ -155,7 +155,7 @@ tags:
 
 **update!** Конкурс завершен
 
-#⌘⌘⌘
+# ⌘⌘⌘
 Друзья, пришло время объявить победителей! 
 В честь открытия [Swift.org](http://swift.org) генератор победителей написан на Swift.
 {% highlight bash lineanchors %}

@@ -10,10 +10,10 @@ tags:
 На самом деле ошибки простые, но вот визуально их тяжело быстро обнаружить. Перейду от слов к делу.
 
 
-#На примере Shell-скрипта
+# На примере Shell-скрипта
 
 {% highlight bash lineanchors %}
-#example.sh
+# example.sh
 echo "converting CoreStorage Volume ..."
 echo "diskutil cs сonvert /Volumes/CORESTORAGE"
 diskutil cs сonvert /Volumes/CORESTORAGE
@@ -48,7 +48,7 @@ echo "diskutil cs сonvert" |hexdump -c
 
 Второй способ - найти/написать плагин с подсветкой таких ошибок. Я нашел первый попавшийся хайлайтер, доработал и забыл про проблему.
 
-#Highlighter (cyrillic edition)
+# Highlighter (cyrillic edition)
 
 Настройка плагина:
 
@@ -60,5 +60,5 @@ echo "diskutil cs сonvert" |hexdump -c
 "highlighter_regex": "((?<=[a-zA-Z])[А-Яа-я])|([А-Яа-я](?=[a-zA-Z]))"
 {% endhighlight %}
 
-#I'm lovin it
+# I'm lovin it
 ![](/images/2015/03/Screen-Shot-2015-03-08-at-18-53-13.png)
