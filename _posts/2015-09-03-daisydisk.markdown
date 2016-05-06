@@ -14,7 +14,7 @@ tags:
 # DaisyDisk: что это?
 
 
-![](/images/2015/09/daisydisk_main.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/09/daisydisk_main.png){: .center-image .responsive-image }
 
 `DaisyDisk` - утилита для визуализации и очистки занятого пространства на дисках.  В считанные секунды программа покажет большие файлы и папки, которые можно удалить (если они больше не нужны), освободив место для новых данных.
 
@@ -23,7 +23,7 @@ tags:
 
 # Что нового в DaisyDisk 4
 
-![](/images/2015/09/daisydisk_about-2.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/09/daisydisk_about-2.png){: .center-image .responsive-image }
 
 Четвертая версия `DaisyDisk` - большое и **бесплатное** обновление для всех пользователей, с доработанным интерфейсом и увеличенной скоростью работы. Здесь не так много новых функций, но "под капотом" проведена колоссальная работа, приложение работает гораздо быстрее предыдущей версии.
 
@@ -37,16 +37,16 @@ tags:
 
 Доработанный внешний вид. Складывается впечатление, что `Human Interface Guideline` от `Apple` составлял дизайнер `DaisyDisk 4`. Приложение классно выглядит и вписывается в интерфейс `OS X Yosemite/El Capitan`, что даже стандартные приложения выглядят хуже (я про `Disk Utility.app`).
 
-![](/images/2015/09/screenshot1.png){: .center-image .responsive-image }
-![](/images/2015/09/screenshot2.png){: .center-image .responsive-image }
-![](/images/2015/09/screenshot3.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/09/screenshot1.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/09/screenshot2.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/09/screenshot3.png){: .center-image .responsive-image }
 
 # Mac App Store или версия с сайта?
 `DaisyDisk` распространяется двумя способами: через **[Mac App Store](https://geo.itunes.apple.com/ru/app/daisydisk/id411643860?mt=12&uo=4&at=1001l9qh&ct=blog)** и версия с **[сайта разработчиков](http://daisydiskapp.com)**. Версия с сайта более функциональная, т.к. в ней нет ограничений песочницы (как для MAS-приложений), что позволяет сканировать диск с правами администратора или привилегированного пользователя, получить полный доступ ко всему содержимому диска.
 
 Версия из `Mac App Store` не имеет таких возможностей (из-за ограничений  Apple), но Вы всегда сможете повысить функциональность своей версии, достаточно скачать версию с сайта, которая определит покупку из Mac App Store и разблокирует все функции. Я покупал версию как раз в `Mac App Store`.
 
-![](/images/2015/09/Screen-Shot-2015-09-03-at-09-45-49.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/09/Screen-Shot-2015-09-03-at-09-45-49.png){: .center-image .responsive-image }
 
 # Стоимость и обновление
 Для тех кто только собирается приобрести программу, стоимость составляет *599р (или $9.99)*. Для существующих пользователей обновление будет **бесплатным**.  Никаких встроенных покупок или скрытых платежей. Это большая редкость в наше время, достойная уважения. На программу регулярно действуют скидки, что тоже радует.

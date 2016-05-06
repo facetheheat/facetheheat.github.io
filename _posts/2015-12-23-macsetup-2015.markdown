@@ -9,7 +9,7 @@ tags:
 Ежегодный обзор программ для OS X, которыми я пользуюсь и рекомендую для использования.   
 Приложений очень много, запасайтесь попкорном.
 
-![](/images/2015/12/Mac2015_800.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/12/Mac2015_800.png){: .center-image .responsive-image }
 
 Предыдущая заметка за [**2014 год**](http://pavel.miroshnichen.co/2015/01/17/setup-2015/).
 
@@ -105,7 +105,7 @@ tags:
 Пакетный менеджер для OS X.
 
 #### [BitTorrent Sync](http://www.getsync.com)    
-![](/images/2015/12/btsync_window.jpg){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/12/btsync_window.jpg){: .center-image .responsive-image }
 Использую на полную катушку. Весь семейный документооборот работает через btsync. Централизованным устройством выступает NAS Synology DS 215j. Подробнее я писал в своих статьях: [«Как хранить фотоархив»](http://pavel.miroshnichen.co/2015/08/24/about-backup/) и [«Bittorent Sync: полный контроль над фотографиями»](http://pavel.miroshnichen.co/2015/11/08/bittorrentsync/).
 C этого года купил две лицензии.
 
@@ -117,7 +117,7 @@ C этого года купил две лицензии.
 Помощник в регулярных выражениях.
 
 ####[Snippets Lab](https://itunes.apple.com/ru/app/snippetslab/id1006087419?mt=12&uo=4&at=1001l9qh&ct=blog)    
-![](/images/2015/12/snippetslab.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/12/snippetslab.png){: .center-image .responsive-image }
 Ещё один менеджер сниппетов. Симпатичный и функциональный, автор открыт к доработкам и пожеланиям. Скорее всего перейду полностью на Quiver.
 
 #### [Quiver](https://itunes.apple.com/ru/app/quiver-programmers-notebook/id866773894?mt=12&uo=4&at=1001l9qh&ct=blog)    
@@ -153,7 +153,7 @@ C этого года купил две лицензии.
 Замечательный Markdown редактор с концентрацией на тексте. Все свои тексты я набираю именно в нем. Расслаблаяющая музыка, горячие клавиши, минимальное отвлечение при наборе текста, фокусировка на определенном абзаце текста. Есть и другие редакторы (iA Writer, Byword, Ulysses), но я привык к Focused.
 
 #### [Day One](https://itunes.apple.com/ru/app/day-one/id1055511498?mt=12&uo=4&at=1001l9qh&ct=blog)  
-![](/images/2015/09/Screen-Shot-2015-09-09-at-00-08-22.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/09/Screen-Shot-2015-09-09-at-00-08-22.png){: .center-image .responsive-image }
 Дневник для ведения общих записей с супругой. Фотографии, забавные моменты, смешные перлы от ребенка. Написал [заметку по случаю выхода второй версии](http://pavel.miroshnichen.co/2016/02/21/dayone/).
 
 [MonthlyCal](https://itunes.apple.com/ru/app/monthlycal-colorful-monthly/id935250717?mt=12&uo=4&at=1001l9qh&ct=blog)  
@@ -169,7 +169,7 @@ Microsoft Office
 
 
 #### [Typinator](http://www.ergonis.com/products/typinator/)  
-![](/images/2015/11/group_utf8.gif){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/group_utf8.gif){: .center-image .responsive-image }
 Клавиатурный ниндзя. Легко освоить. Легко пользоваться. [Моя статья на эту тему](http://pavel.miroshnichen.co/2015/11/05/text-ninja/).
 
 [Magnet](https://itunes.apple.com/ru/app/magnet/id441258766?mt=12&uo=4&at=1001l9qh&ct=blog)  

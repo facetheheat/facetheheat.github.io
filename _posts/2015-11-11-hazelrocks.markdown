@@ -13,24 +13,24 @@ tags:
 ## Правило №1: Рабочий стол
 Любые файлы или папки с рабочего стола переносятся в `~/Downloads`.  
 Рабочий стол всегда чист.
-![](/images/2015/11/hazel-01.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/hazel-01.png){: .center-image .responsive-image }
 
 
 ## Правило №2: Удаление приложений
 При удалении программ Hazel будет отслеживать и предлагать удалять зависимые файлы (настройки, временные файлы и т.п.).
-![](/images/2015/11/hazel-02.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/hazel-02.png){: .center-image .responsive-image }
  
 ## Правила для Downloads
 
 **Правило №3:** Перенос .torrent файлов  
 Сохраненные *.torrent файлы перемещаются в `~/Downloads/TORRENTS/`.  
 Не всегда требуется открывать Transmission, поэтому отслеживание *.torrent файлов в определенной директории для Transmission отключено.
-![](/images/2015/11/hazel-03.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/hazel-03.png){: .center-image .responsive-image }
 
 
 **Правило №4:** Конвертация книг для Kindle  
 Файл с расширением *.fb2 будет автоматически сконвертирован через `fb2mobi` в формат mobi. Можно пойти дальше и настроить отправку книг через Send-to-Kindle по электронной почте.
-![](/images/2015/11/hazel-04.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/hazel-04.png){: .center-image .responsive-image }
 
 ![Embedded Script](/images/2015/11/hazel-05.png){: .center-image .responsive-image }
 
@@ -43,24 +43,24 @@ killall SystemUIServer
 
 
 **Правило №5:** Переименовывает скриншоты в «Screen Shot», снятые под разными локализациями («Screen Shot», «Снимок экрана» и т.п.). 
-![](/images/2015/11/hazel-06.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/hazel-06.png){: .center-image .responsive-image }
 
 **Правило №6:** Hazel переносит устаревшие скриншоты (старше 50 дней) в подпапку c именем `~/Documents/Screen Shots/ГГГГ`.
-![](/images/2015/11/hazel-07.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/hazel-07.png){: .center-image .responsive-image }
 
 
 ## Правила для отсканированных документов
 При сохранении сканов с iOS я добавляю к имени тип документа: «чек», «покупка», «поездка» и т.п. Сканы сохраняются в папку «Документы/Загрузки».
 
 **Правило №7:** Hazel сортирует в подпапки по типам документов. Например, файл с текстом «чек» переносит в «Документы/Покупки».
-![](/images/2015/11/hazel-08.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/hazel-08.png){: .center-image .responsive-image }
 
 ## Правила для рабочих документов
 **Правило №8:** Перенос рабочих файлов из Downloads в Documents/WORK. Файлы сохраненные с рабочего домена domain.com перемещаются в `~/Documents/WORK/INBOX`.  
 
 Посмотреть `Source URL/Address` можно командой `$ mdls filename`
 
-![](/images/2015/11/hazel-09.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/hazel-09.png){: .center-image .responsive-image }
 
 
 **Правило №9:** Сортировка рабочих документов по типам файлов. Документы(doc,xls,pdf,txt,md и т.п) перемещаются в «WORK/Docs»;
@@ -72,7 +72,7 @@ killall SystemUIServer
 Мне приходится часто работать с разными приложениями, через некоторое время забываешь какая версия примонтирована. 
 
 Hazel заставляет монтировать нужный образ повторно, чтобы быть уверенным в нужной версии.
-![](/images/2015/11/hazel-10.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/hazel-10.png){: .center-image .responsive-image }
 
 
 # Похожие статьи

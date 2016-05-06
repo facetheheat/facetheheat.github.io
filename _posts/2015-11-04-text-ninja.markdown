@@ -17,7 +17,7 @@ tags:
 Знакомые фразы?
 
 # Зачем это нужно?
-![](/images/2015/11/text_ninja_demo.gif){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/text_ninja_demo.gif){: .center-image .responsive-image }
 
 Я ввожу сокращения и получаю нужный текст. Все просто.  
 
@@ -27,20 +27,20 @@ tags:
 ### Email и Web-сайты  
 В этой группе я составил сокращения для сниппетов с быстрым вводом email-адресов или web-сайтов. Несколько своих email-адресов, email-ы родственников, коллег и т.п.
 
-![](/images/2015/11/group_emails.gif){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/group_emails.gif){: .center-image .responsive-image }
 
 
 ### Имена и фамилии  
 Как часто мы вводим свои инициалы полностью? А при рабочей переписке? В этой группе я добавил аббревиатуры всех коллег, с которыми веду переписку. Гораздо быстрее напечатать «ВБ», чем «Владимир Брониславский».
 
-![](/images/2015/11/group_users.gif){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/group_users.gif){: .center-image .responsive-image }
 
 *Чтобы не было ложных срабатываний при использовании сокращений из двух заглавных букв, настороено условие совпадения только после пробела с учетом регистра букв.*
 
 ### Телефоны  
 Списки всех моих телефонов и телефон супруги. Добавлены телефоны с разными префиксами(+7 или 8). Сокращения используются при заполнении форм на сайтах, в электронных письмах или переписке в мессенджерах.
 
-![](/images/2015/11/group_phones.gif){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/group_phones.gif){: .center-image .responsive-image }
 
 ### Текстовые сокращения
 Общая группа сокращений, без выделения конкретных групп.  
@@ -49,12 +49,12 @@ tags:
   домен - заполнение логина с доменом, например, 
     вводим «domain\» => «domain\username».  
 
-![](/images/2015/11/group_others.gif){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/group_others.gif){: .center-image .responsive-image }
 
 ### Пары  
 Очень классная функция, которая встречается во всех редакторах кода. При вводе парных ("[", """, "(", "{", "«") символов кавычек или скобок автоматически подставляется закрывающий символ.  
 
-![](/images/2015/11/group_pairs.gif){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/group_pairs.gif){: .center-image .responsive-image }
 
 *Подстановка символов работает во всех приложениях.*
 
@@ -62,32 +62,32 @@ tags:
 ### Опечатки и двойные заглавные
 Исправление букв при начале предложения (замена строчных на заглавные), а так же корректировка двойных заглавных. Например, «ПРивет» исправляется на «Привет».
 
-![](/images/2015/11/group_autocorrect.gif){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/group_autocorrect.gif){: .center-image .responsive-image }
 
 
 ### Терминальные команды
 Длинные терминальные команды. В целом, дублируем сокращения из shell-окружения (zsh, bash), но команды доступны в любых приложениях и ssh-сессиях, что значительно упрощает работу.
 
-![](/images/2015/11/group_terminal.gif){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/group_terminal.gif){: .center-image .responsive-image }
 
 *На примере выше показана замена сокращений «edit.ho» на «sudo nano -w /etc/hosts» и «vm.all» на «vim-cmd vmsvc/getallvms». Очевидно, что это не самые длинные команды, которые можно добавить.*
 
 ### Скрипты  
 Эта группа дополняет терминальные команды. Но выделена в отдельную из-за выполнения скриптов через AppleScript, Javascript, shell. Я использую команды для получения IP адреса, для получения полного пути открытого окна Finder.
 
-![](/images/2015/11/group_scripts.gif){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/group_scripts.gif){: .center-image .responsive-image }
 
 *На примере выше показано получение полного пути в терминале для открытого окна в Finder.*
 
 ### Символы UTF-8
 Очень простая группа, для любителей эмодзи-символов. Я добавил основные вспомогательные клавиши при работе в OS X (command, option, shift, control и т.п.). Нагляднее присылать пиктограмму клавиш для нажатия, чем печатать текстом.
 
-![](/images/2015/11/group_utf8.gif){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/group_utf8.gif){: .center-image .responsive-image }
 
 ### Пиши правильно!
 Группа для исправления слов. Транслит, корректировка названий, расшифровка сокращений, сленга. Больше информации на скриншоте.
 
-![](/images/2015/11/group_corrections.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/11/group_corrections.png){: .center-image .responsive-image }
 
 
 # Text Expander, Typinator или aText?
@@ -144,7 +144,7 @@ tags:
 Если появились вопросы и предложения отвечайте в комментариях.
 
 # Хотите получить Text Expander 5 бесплатно?
-[![](/images/2015/11/2936-157870.jpeg){: .center-image .responsive-image }](http://smile.7eer.net/c/205980/157870/2936)
+[![](http://pavel.miroshnichen.co/images/2015/11/2936-157870.jpeg){: .center-image .responsive-image }](http://smile.7eer.net/c/205980/157870/2936)
 
 
 Компания SmileSoftware предоставила два redeem кода для [Text Expander for Mac (4000р/44$).](http://smile.7eer.net/c/205980/155222/2936)

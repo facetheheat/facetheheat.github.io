@@ -32,9 +32,9 @@ tags:
 ## Мой iOS Setup 2015
 Настало время перейти к моим установленным приложениям на iPhone.
 
-![](/images/2015/02/ios_setup_2015-copy_2.jpg){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/02/ios_setup_2015-copy_2.jpg){: .center-image .responsive-image }
 
-![](/images/2015/02/dock.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/02/dock.png){: .center-image .responsive-image }
 
 *Сообщения.app*
 Приложением пользуюсь чаще всего. Было бы классно, если Apple портировала клиента на другие платформы.
@@ -49,7 +49,7 @@ tags:
 Звонилка от Apple
 
 ##Первый экран
-![](/images/2015/02/screen1.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/02/screen1.png){: .center-image .responsive-image }
 
 *Календарь.app*
 С выходом iOS8 я перешел на Fantastical, т.к. в штатном календаре пропал режим отображения "Месяц" с событиями по выбранному дню на нижней половине экрана. Apple вернул этот режим в каком-то обновлении, но я был доволен Fantastical.
@@ -80,8 +80,8 @@ tags:
 
 ##Второй экран
 
-![](/images/2015/02/screen2-1.png){: .center-image .responsive-image }
-![](/images/2015/02/screen2-2.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/02/screen2-1.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/02/screen2-2.png){: .center-image .responsive-image }
 
 *[Scanbot](https://geo.itunes.apple.com/ru/app/skaner-dokumentov-qr-kodov/id834854351?mt=8&at=1001l9qh&ct=blog)*
 Программа - один из элементов электронного документооборота. Выбрал именно её из тысячи подобных из-за грамотного UI и UX. Плюс работа с большинством облачных сервисов. Купил Pro версию, но распознаванием текста недоволен. Особой необходимости в Pro не вижу.
@@ -138,8 +138,8 @@ tags:
 Но вот с синхронизацией беда - она по bluetooth только с одним телефоном. Мой iPhone спарен с весами, я раз в неделю "собираю" данные для профилей жены и ребенка. Дальше программа через свой сервер синхронизации доставляет данные на телефон жены. Но здесь неприятный момент, когда я собираю данные для профиля жены и ребенка, программа добавляет их вес в мой Health.app. Пришлось отключить и вбивать руками. Короче, весы с синхронизацией - бесполезная трата денег.
 
 ## Третий экран
-![](/images/2015/02/screen3-1-1.png){: .center-image .responsive-image }
-![](/images/2015/02/screen3-2.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/02/screen3-1-1.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/02/screen3-2.png){: .center-image .responsive-image }
 
 **Третий экран / папка Экстра**:
 

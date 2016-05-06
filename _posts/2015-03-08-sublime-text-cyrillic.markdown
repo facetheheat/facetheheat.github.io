@@ -33,14 +33,14 @@ type "diskutil coreStorage" for a list
 echo "diskutil cs сonvert" |hexdump -c
 {% endhighlight %}
 
-![](/images/2015/03/Screen-Shot-2015-03-08-at-19-01-26.png)
+![](http://pavel.miroshnichen.co/images/2015/03/Screen-Shot-2015-03-08-at-19-01-26.png)
 
 Первый символ в слове convert отличается от остальных, ошибка найдена.
 
 # А в чем проблема Sublime Text?
 А вот как это выгдядит в Sublime Text
 
-![](/images/2015/03/Screen-Shot-2015-03-08-at-18-52-29.png)
+![](http://pavel.miroshnichen.co/images/2015/03/Screen-Shot-2015-03-08-at-18-52-29.png)
 
 За собственные ошибки мы платим. Предлагаю свести их к минимуму. Задача - обнаружить такие ошибки на этапе написания скрипта, чтобы во время отладки не отвлекаться на подобные, досадные опечатки.
 
@@ -61,4 +61,4 @@ echo "diskutil cs сonvert" |hexdump -c
 {% endhighlight %}
 
 # I'm lovin it
-![](/images/2015/03/Screen-Shot-2015-03-08-at-18-53-13.png)
+![](http://pavel.miroshnichen.co/images/2015/03/Screen-Shot-2015-03-08-at-18-53-13.png)
