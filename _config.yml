@@ -2,7 +2,7 @@
 title:       'Блог Павла Мирошниченко'
 email:       'pavel@miroshnichen.co'
 author:      'Павел Мирошниченко'
-description: 'советы и рекомендации по технологиям'
+description: ''
 baseurl:     ''
 url:         'http://pavel.miroshnichen.co'
 date_format: '%d/%m/%Y'
@@ -13,7 +13,7 @@ google_verification:
 yandex_metrika: 28652021
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
@@ -23,6 +23,7 @@ future:		      true
 # Disqus post comments
 # (leave blank to disable Disqus)
 disqus_shortname: pavelmiroshnichenko
+#disqus_shortname:
 
 # Social icons
 github_username:
