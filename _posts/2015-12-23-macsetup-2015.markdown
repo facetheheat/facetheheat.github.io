@@ -18,7 +18,7 @@ tags:
 
 # Изменения с 2014 годом
 
-###Новые приложения
+### Новые приложения
 
 - [Focused (ex. Typed)](https://itunes.apple.com/ru/app/focused-minimal-writing-app/id899966452?mt=12&uo=4&at=1001l9qh&ct=blog)
 - [2Do](https://itunes.apple.com/ru/app/2do/id477670270?mt=12&uo=4&at=1001l9qh&ct=blog)
@@ -116,7 +116,7 @@ C этого года купил две лицензии.
 [Patterns](https://itunes.apple.com/ru/app/patterns-the-regex-app/id429449079?mt=12&uo=4&at=1001l9qh&ct=blog)  
 Помощник в регулярных выражениях.
 
-####[Snippets Lab](https://itunes.apple.com/ru/app/snippetslab/id1006087419?mt=12&uo=4&at=1001l9qh&ct=blog)    
+#### [Snippets Lab](https://itunes.apple.com/ru/app/snippetslab/id1006087419?mt=12&uo=4&at=1001l9qh&ct=blog)    
 ![](http://pavel.miroshnichen.co/images/2015/12/snippetslab.png){: .center-image .responsive-image }
 Ещё один менеджер сниппетов. Симпатичный и функциональный, автор открыт к доработкам и пожеланиям. Скорее всего перейду полностью на Quiver.
 
@@ -139,7 +139,7 @@ C этого года купил две лицензии.
 [Paragon VMDK Mounter](http://www.paragon-software.com/home/vd-mounter-mac-free/)  
 Позволяет монтировать виртуальные диски от Vmware Fusion. Использую редко, но инструмент экономит массу времени. Подробнее в моей заметке [«Работа с контейнерами VMDK»](http://pavel.miroshnichen.co/2015/07/17/vmdk-mounter-for-mac/).
 
-####[iThoughtsX](https://itunes.apple.com/ru/app/ithoughtsx/id720669838?mt=12&uo=4&at=1001l9qh&ct=blog)  
+#### [iThoughtsX](https://itunes.apple.com/ru/app/ithoughtsx/id720669838?mt=12&uo=4&at=1001l9qh&ct=blog)  
 
 ![](https://raw.githubusercontent.com/facetheheat/ithoughtsx-themes/master/images/filmed_thin_demo.png){: .center-image .responsive-image }
 
