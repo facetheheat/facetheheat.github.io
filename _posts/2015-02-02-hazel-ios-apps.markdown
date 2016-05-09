@@ -48,7 +48,7 @@ Hazel выполняет всю черную работу. Настроен на
 
 Во всех случаях Hazel запускает python скрипт, просто с разными параметрами.
 
-![](/images/2015/02/hazel_reduce_itunes_ipa.gif){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/02/hazel_reduce_itunes_ipa.gif){: .center-image .responsive-image }
 
 #### Python скрипт
 Я не программист, скрипт писался для себя. Решает определенную задачу. Добавить различные исключения и возможные ошибки? этого нет. Для работы скрипта потребуется установить библиотеку Dropbox
@@ -56,6 +56,6 @@ $ sudo pip install dropbox
 Так же прописать APIKEY & APISECRET из раздела for developers на сайте Dropbox. После всего этого остается разрешить доступ приложения к папке dropbox. Если вы решитесь на подобный способ и возникнут вопросы по работе - пишите. По настройке скрипта доступна [информация](http://habrahabr.ru/post/236483/).
 Скрипт размещен на [Github](https://github.com/facetheheat/Hazel/tree/master/reduce_itunes_ipa).
 
-![](/images/2015/02/freespace-1.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/02/freespace-1.png){: .center-image .responsive-image }
 
 

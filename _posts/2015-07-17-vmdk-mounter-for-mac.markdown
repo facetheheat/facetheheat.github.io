@@ -54,12 +54,12 @@ installer -pkg OSXUpd10.11.pkg -target "/Volumes/Macintosh HD 1"
 Напрямую накатить обновление достаточно сложно, поэтому скопируем установщик от 10.11 на машину с 10.10.
 Файл занимает 6Гб, скопировались менее чем за 2 минуты, что значительно быстрее если бы я копировал на включенную виртуалку с Yosemite.
 
-![](/images/2015/07/Screen-Shot-2015-07-16-at-11-00-11.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/07/Screen-Shot-2015-07-16-at-11-00-11.png){: .center-image .responsive-image }
 
 #Хочу CLI
 Отдельно стоит сказать про возможность создавать собственные контейнеры виртуальных дисков, которые потом лего подключаются к любым виртуальным машинам. Но сделать это можно только через CLI-версию VMDK Mounter'а. Приведу вывод утилиты:
 
-![](/images/2015/07/Screen-Shot-2015-07-17-at-21-00-28.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/07/Screen-Shot-2015-07-17-at-21-00-28.png){: .center-image .responsive-image }
 
 
 

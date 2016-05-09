@@ -18,7 +18,7 @@ tags:
 
 Создаем правило - добавляем правило для `Safari.app`:
 
-![](/images/2015/07/Screen-Shot-2015-07-20-at-21-03-19.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/07/Screen-Shot-2015-07-20-at-21-03-19.png){: .center-image .responsive-image }
 
 # Переход по ссылкам
 После блокировки по домену остается вопрос - как преходить по ссылкам?
@@ -31,7 +31,7 @@ tags:
 * `Build package`, сохраняем пакет для следующего раза;
 * `Install package`.
 
-![](/images/2015/07/Screen-Shot-2015-07-20-at-21-11-57-1.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2015/07/Screen-Shot-2015-07-20-at-21-11-57-1.png){: .center-image .responsive-image }
 
 
 Все!   
