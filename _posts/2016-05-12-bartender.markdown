@@ -11,15 +11,15 @@ Menubar в OS X — отличное место для размещения по
 
 Со временем количество иконок разрастается, разработчики приложений все чаще и чаще размещают иконки в Menubar. Все это приводит к заполнению и переполнению иконками Менюбара, часть иконок становится недоступными. Проблема очень актуальна для владельцев небольших экранов с диагональю 11" и 13" дюймов. 
 
-![](/images/2016/05/bartender-01.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2016/05/bartender-01.png){: .center-image .responsive-image }
 
 Здесь полно ненужных иконок. Выход из ситуации - уменьшить количество иконок, отключив в настройках приложений. Но не все приложения позволяют это сделать. Навести порядок поможет утилита Bartender.  Результат? Посмотрите на изображение ниже, как выглядит менюбар сейчас:
 
-![](/images/2016/05/bartender-02.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2016/05/bartender-02.png){: .center-image .responsive-image }
 
 Идея в том, чтобы оставить только важную информацию, а все остальные элементы меню спрятать в иконку Bartender. Все очень просто.
 
-![](/images/2016/05/bartender-04.png){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2016/05/bartender-04.png){: .center-image .responsive-image }
 
 
 # Кому не нужен Bartender
@@ -29,7 +29,7 @@ Menubar в OS X — отличное место для размещения по
 
 С выходом El Capitan 10.11 стала доступна возможность скрывать Menubar, а при наведении курсора - отображать. Это не решает проблему большого количества иконок, но для кого-то может частично решить проблему.
 
-![](/images/2016/05/bartender-03.gif){: .center-image .responsive-image }
+![](http://pavel.miroshnichen.co/images/2016/05/bartender-03.gif){: .center-image .responsive-image }
 
 В итоге, большое количество иконок приводит к тому, что трудно найти часто используемые. Bartender привлекает тем, что достаточно одного прикосновения чтобы получить доступ к любому элементу, размещенному в меню. Вернулся к привычному Bartender месяц спустя.
 
@@ -42,5 +42,5 @@ Bartender 2 решает небольшую задачу, но делает эт
 
 Пробную версию приложения, без ограничений по функциональности, можно скачать с официального сайта. У вас есть 4 недели, чтобы попробовать и привыкнуть к приложению.
 
-[![](/images/2016/05/bartender-05.png){: .center-image .responsive-image }](https://www.macbartender.com)
+[![](http://pavel.miroshnichen.co/images/2016/05/bartender-05.png){: .center-image .responsive-image }](https://www.macbartender.com)
 
