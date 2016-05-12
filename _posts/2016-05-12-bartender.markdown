@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bartender 2'
-date: '2016-05-04 21:33:49'
+date: '2016-05-12 22:47:03'
 tags:
 - Mac
 - Продуктивность
