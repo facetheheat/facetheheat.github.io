@@ -12,7 +12,7 @@ tags:
 
 Для виртуализации я пользуюсь VMware Fusion и vSphere ESXi, формат дисков виртуальных машин - *.vmdk.
 
-# VMDK Mounter for Mac
+## VMDK Mounter for Mac
 Не так давно компания Paragon выпустила продукт - VMDK Mounter for Mac. Единственное решение для доступа к содержимому виртуальных дисков без запуска виртуальных машин. Да, продукт только для OS X. И да - продукт **бесплатный**!
 
 VMDK Mounter for Mac поддерживает и другие контейнеры виртуальных дисков:
@@ -34,7 +34,7 @@ VMDK Mounter for Mac поддерживает и другие контейнер
 - гибкая работа через терминал.
 
 
-# Использование
+## Использование
 Я лишь могу предполагать, кто и как использует виртуальные машины, расскажу немного про свой подход.
 
 Мне часто требуется работать с разными версиями OS X, держать их в актуальном состоянии (апдейты и прочее).
@@ -56,14 +56,14 @@ installer -pkg OSXUpd10.11.pkg -target "/Volumes/Macintosh HD 1"
 
 ![](http://pavel.miroshnichen.co/images/2015/07/Screen-Shot-2015-07-16-at-11-00-11.png){: .center-image .responsive-image }
 
-#Хочу CLI
+## Хочу CLI
 Отдельно стоит сказать про возможность создавать собственные контейнеры виртуальных дисков, которые потом лего подключаются к любым виртуальным машинам. Но сделать это можно только через CLI-версию VMDK Mounter'а. Приведу вывод утилиты:
 
 ![](http://pavel.miroshnichen.co/images/2015/07/Screen-Shot-2015-07-17-at-21-00-28.png){: .center-image .responsive-image }
 
 
 
-#The End
+## The End
 Вот такая замечательная утилита помогает решать ежедневные задачи.
 
 [![alt](/images/2015/07/vmdk_boxshot_eng_134x172.png){: .center-image .responsive-image }](https://www.paragon-software.com/home/vd-mounter-mac-free/)

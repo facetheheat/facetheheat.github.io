@@ -75,10 +75,10 @@ Hazel заставляет монтировать нужный образ пов
 ![](http://pavel.miroshnichen.co/images/2015/11/hazel-10.png){: .center-image .responsive-image }
 
 
-# Похожие статьи
+## Похожие статьи
 [«Освобождаем место на SSD при помощи Dropbox, Hazel и Python»](http://pavel.miroshnichen.co/2015/02/02/hazel-ios-apps/).
 
-# ⌘
+## ⌘
 Если появились вопросы и предложения отвечайте в комментариях.  
 Приятно встречать единомышленников.
 

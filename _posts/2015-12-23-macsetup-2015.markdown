@@ -13,12 +13,12 @@ tags:
 
 Предыдущая заметка за [**2014 год**](http://pavel.miroshnichen.co/2015/01/17/setup-2015/).
 
-# Powered by
+## Powered by
 [**OS X 10.11 El Capitan**](https://itunes.apple.com/ru/app/os-x-el-capitan/id1018109117?mt=12&uo=4&at=1001l9qh&ct=blog) и MacBook Pro 2013
 
-# Изменения с 2014 годом
+## Изменения с 2014 годом
 
-### Новые приложения
+#### Новые приложения
 
 - [Focused (ex. Typed)](https://itunes.apple.com/ru/app/focused-minimal-writing-app/id899966452?mt=12&uo=4&at=1001l9qh&ct=blog)
 - [2Do](https://itunes.apple.com/ru/app/2do/id477670270?mt=12&uo=4&at=1001l9qh&ct=blog)
@@ -34,7 +34,7 @@ tags:
 - [Magnet](https://itunes.apple.com/ru/app/magnet/id441258766?mt=12&uo=4&at=1001l9qh&ct=blog)
 - [Pixelmator](https://itunes.apple.com/ru/app/pixelmator/id407963104?mt=12&uo=4&at=1001l9qh&ct=blog)
 
-### Заброшенные приложения
+#### Заброшенные приложения
 - **_Fantastical_**  
 После выпуска второй версии не стал делать апдейт. Календарь за $45? Спасибо, не нужно. Устраивает штатный Calendar.app и виджет MonthlyCal
 - **_Bartender 2_**  
@@ -61,9 +61,9 @@ tags:
 Блокнот для текстовых заметок. Очень классный и легкий, но без обновлений. Перешел на Quiver.
 
 
-# Полный список программ за 2015 год
+## Полный список программ за 2015 год
 
-## «Стандартные приложения»
+### «Стандартные приложения»
 - *Safari.app* - браузер по-умолчанию.
 - *Mail.app* - почтовый клиент.
 - *Messages.app* - сообщения.
@@ -77,7 +77,7 @@ tags:
 - *Script Editor.app* - создание AppleScript'ов для автоматизации.
 - *Automator.app* - сервисы и автоматизация в OS X.
 
-## Коллекция «Обязательные»
+### Коллекция «Обязательные»
 [1Password](https://geo.itunes.apple.com/ru/app/1password/id443987910?mt=12&uo=4&at=1001l9qh&ct=blog)  
 Культовый менеджер хранения паролей. Использую с 2010 года (1Password 3). Безопасное хранение паролей, логинов, секретных заметок. Поддержка одноразовых паролей для авторизации(One Time Passwords). Моя статья [«Как я использую 1Password».](http://pavel.miroshnichen.co/2015/03/05/1password/).
 
@@ -104,23 +104,23 @@ tags:
 [Homebrew](http://brew.sh/)  
 Пакетный менеджер для OS X.
 
-#### [BitTorrent Sync](http://www.getsync.com)    
+##### [BitTorrent Sync](http://www.getsync.com)    
 ![](http://pavel.miroshnichen.co/images/2015/12/btsync_window.jpg){: .center-image .responsive-image }
 Использую на полную катушку. Весь семейный документооборот работает через btsync. Централизованным устройством выступает NAS Synology DS 215j. Подробнее я писал в своих статьях: [«Как хранить фотоархив»](http://pavel.miroshnichen.co/2015/08/24/about-backup/) и [«Bittorent Sync: полный контроль над фотографиями»](http://pavel.miroshnichen.co/2015/11/08/bittorrentsync/).
 C этого года купил две лицензии.
 
-## Коллекция «Для души и Мака»
+### Коллекция «Для души и Мака»
 [Code Runner 2](https://itunes.apple.com/ru/app/coderunner-2/id955297617?mt=12&uo=4&at=1001l9qh&ct=blog)  
 Пишу скрипты в Sublime, а тестирую в CodeRunner. Сейчас использую реже, но программу очень люблю. Автор предлагает бесплатное обновление до второй версии MAS пользователям.
 
 [Patterns](https://itunes.apple.com/ru/app/patterns-the-regex-app/id429449079?mt=12&uo=4&at=1001l9qh&ct=blog)  
 Помощник в регулярных выражениях.
 
-#### [Snippets Lab](https://itunes.apple.com/ru/app/snippetslab/id1006087419?mt=12&uo=4&at=1001l9qh&ct=blog)    
+##### [Snippets Lab](https://itunes.apple.com/ru/app/snippetslab/id1006087419?mt=12&uo=4&at=1001l9qh&ct=blog)    
 ![](http://pavel.miroshnichen.co/images/2015/12/snippetslab.png){: .center-image .responsive-image }
 Ещё один менеджер сниппетов. Симпатичный и функциональный, автор открыт к доработкам и пожеланиям. Скорее всего перейду полностью на Quiver.
 
-#### [Quiver](https://itunes.apple.com/ru/app/quiver-programmers-notebook/id866773894?mt=12&uo=4&at=1001l9qh&ct=blog)    
+##### [Quiver](https://itunes.apple.com/ru/app/quiver-programmers-notebook/id866773894?mt=12&uo=4&at=1001l9qh&ct=blog)    
 ![](https://raw.githubusercontent.com/facetheheat/quiver-themes/master/Lighter_Purple_preview.png){: .center-image .responsive-image }
 Достойный преемник моего любимого nvALT, который заменил мне его вместе с Evernote. Хранит заметки в формате JSON. Киллер фича - поддержка разных типов текста в одной заметке. В одной заметке можно вставить разные блоки текста: markdown, code, plain text, latex, диаграммы, прикрепить изображения. Крайне рекомендую посмотреть на этот «блокнот». 
 
@@ -139,7 +139,7 @@ C этого года купил две лицензии.
 [Paragon VMDK Mounter](http://www.paragon-software.com/home/vd-mounter-mac-free/)  
 Позволяет монтировать виртуальные диски от Vmware Fusion. Использую редко, но инструмент экономит массу времени. Подробнее в моей заметке [«Работа с контейнерами VMDK»](http://pavel.miroshnichen.co/2015/07/17/vmdk-mounter-for-mac/).
 
-#### [iThoughtsX](https://itunes.apple.com/ru/app/ithoughtsx/id720669838?mt=12&uo=4&at=1001l9qh&ct=blog)  
+##### [iThoughtsX](https://itunes.apple.com/ru/app/ithoughtsx/id720669838?mt=12&uo=4&at=1001l9qh&ct=blog)  
 
 ![](https://raw.githubusercontent.com/facetheheat/ithoughtsx-themes/master/images/filmed_thin_demo.png){: .center-image .responsive-image }
 
@@ -152,7 +152,7 @@ C этого года купил две лицензии.
 [Focused (ex. Typed)](https://itunes.apple.com/ru/app/focused-minimal-writing-app/id899966452?mt=12&uo=4&at=1001l9qh&ct=blog)  
 Замечательный Markdown редактор с концентрацией на тексте. Все свои тексты я набираю именно в нем. Расслаблаяющая музыка, горячие клавиши, минимальное отвлечение при наборе текста, фокусировка на определенном абзаце текста. Есть и другие редакторы (iA Writer, Byword, Ulysses), но я привык к Focused.
 
-#### [Day One](https://itunes.apple.com/ru/app/day-one/id1055511498?mt=12&uo=4&at=1001l9qh&ct=blog)  
+##### [Day One](https://itunes.apple.com/ru/app/day-one/id1055511498?mt=12&uo=4&at=1001l9qh&ct=blog)  
 ![](http://pavel.miroshnichen.co/images/2015/09/Screen-Shot-2015-09-09-at-00-08-22.png){: .center-image .responsive-image }
 Дневник для ведения общих записей с супругой. Фотографии, забавные моменты, смешные перлы от ребенка. Написал [заметку по случаю выхода второй версии](http://pavel.miroshnichen.co/2016/02/21/dayone/).
 
@@ -168,7 +168,7 @@ Microsoft Office
 
 
 
-#### [Typinator](http://www.ergonis.com/products/typinator/)  
+##### [Typinator](http://www.ergonis.com/products/typinator/)  
 ![](http://pavel.miroshnichen.co/images/2015/11/group_utf8.gif){: .center-image .responsive-image }
 Клавиатурный ниндзя. Легко освоить. Легко пользоваться. [Моя статья на эту тему](http://pavel.miroshnichen.co/2015/11/05/text-ninja/).
 
@@ -185,7 +185,7 @@ Microsoft Office
 [Pixelmator](https://itunes.apple.com/ru/app/pixelmator/id407963104?mt=12&uo=4&at=1001l9qh&ct=blog)  
 Графический редактор. В планах изучить подробнее этот редактор, пока пользуюсь для ресайза и кропа изображений. Использую версию от MacFormat.
 
-### Список из 2014 года
+#### Список из 2014 года
 Смысла описывать одно и тоже нет, просто оставлю список программ, которыми я пользуюсь, но описание смотрите в предыдущей заметке [«Моя подборка программ для Mac за 2014 год»](http://pavel.miroshnichen.co/2015/01/17/setup-2015/).
 
 - [Kaleidoscope](https://geo.itunes.apple.com/ru/app/kaleidoscope/id587512244?mt=12&uo=4&at=1001l9qh&ct=blog)  
@@ -200,12 +200,12 @@ Microsoft Office
 - [VLC](http://www.videolan.org/vlc/)
 - [Skype](http://www.skype.com)
 
-# ⌘ Подводим итоги
+## ⌘ Подводим итоги
 
 ![Затраты в 2015 году ](/images/2015/12/SUM.png){: .center-image .responsive-image }
 
 
-# Похожие статьи других авторов
+## Похожие статьи других авторов
 [«Программы для OS X 2015»](http://fluder.co/blog/2015/10/25/osx-setup-2015/) Александра Глущенко  
 [«Лучшие приложения для Mac (2015)»](http://macosworld.ru/best-mac-soft-2015/) Влада Гороховского  
 
