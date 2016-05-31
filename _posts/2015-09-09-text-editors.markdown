@@ -131,7 +131,7 @@ Day One качественное приложение, заметки храня
 - [Day One — обзор персонального дневника](http://macosworld.ru/day-one/)
 
 
-## Группа 4: Reach Text (текст + изображения)
+## Группа 4: Rich Text (текст + изображения)
 Эта группа существует, никак не получается от неё избавиться. Инструкции, сканы документов, большие структуры документов - все это относиться к этой группе. Да, инструмент - [**Evernote**](https://www.evernote.com/referral/Registration.action?sig=be670050042704de9d866d7aec6d20dd&uid=5563004) для iOS и OS X.
 
 [![](http://pavel.miroshnichen.co/images/2015/09/logo_evernote.png)](https://www.evernote.com/referral/Registration.action?sig=be670050042704de9d866d7aec6d20dd&uid=5563004)
