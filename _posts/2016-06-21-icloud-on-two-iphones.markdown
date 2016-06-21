@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Как использовать один аккаунт iCloud на двух iPhone'ах"
+title: "Как использовать один аккаунт iCloud на двух iPhone"
 date: '2016-06-21 00:14:32'
 tags:
 - iOS
