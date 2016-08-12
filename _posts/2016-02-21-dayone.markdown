@@ -105,6 +105,7 @@ dayone2://
 
 
 ## Скачать Day One 2
-[![alt caption text](/images/2016/02/DayOneIOS2.png "iOS")](https://geo.itunes.apple.com/ru/app/day-one-2-journal-+-notes/id1044867788?mt=8&uo=4&at=1001l9qh&ct=blog)[![alt caption text](/images/2016/02/DayOneMac2.png "OS X")](https://itunes.apple.com/ru/app/day-one/id1055511498?mt=12&uo=4&at=1001l9qh&ct=blog)
+|:---:|:---:|
+[![](/images/2016/02/DayOneIOS2.png "iOS")](https://geo.itunes.apple.com/ru/app/day-one-2-journal-+-notes/id1044867788?mt=8&uo=4&at=1001l9qh&ct=blog) | [![](/images/2016/02/DayOneMac2.png "OS X")](https://itunes.apple.com/ru/app/day-one/id1055511498?mt=12&uo=4&at=1001l9qh&ct=blog)
 
 
