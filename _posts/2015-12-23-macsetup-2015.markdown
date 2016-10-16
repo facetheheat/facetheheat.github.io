@@ -55,7 +55,7 @@ tags:
 - **_YouType_**  
 Посредственный софт. Странно, что он попал в прошлый обзор. Для меня программа бесполезная.
 - **_[Dropbox](https://db.tt/vxSlAY4l)_**  
-Нет, со мной все хорошо. Просто отказался от платной подписки на 1Тб, сейчас доступно 22Гб. Использую для синхронизации приложений: 2Do, Due, LaunchCenter Pro и прочих. Основной документооборот переехал на Bittorrent Sync.
+Нет, со мной все хорошо. Просто отказался от платной подписки на 1Тб, сейчас доступно 22Гб. Использую для синхронизации приложений: 2Do, Due, LaunchCenter Pro и прочих. Основной документооборот переехал на Resilio Sync (ex. Bittorrent Sync).
 - **_fb2conv_**  
 Конвертер перестал работать на El Capitan, на смену вышел форк fb2mobi.
 - **_nvALT_**  
@@ -105,9 +105,9 @@ tags:
 [Homebrew](http://brew.sh/)  
 Пакетный менеджер для OS X.
 
-##### [BitTorrent Sync](http://www.getsync.com)    
+##### [Resilio Sync (ex. Bittorrent Sync)](http://resilio.com)    
 ![](http://pavel.miroshnichen.co/images/2015/12/btsync_window.jpg){: .center-image .responsive-image }
-Использую на полную катушку. Весь семейный документооборот работает через btsync. Централизованным устройством выступает NAS Synology DS 215j. Подробнее я писал в своих статьях: [«Как хранить фотоархив»](http://pavel.miroshnichen.co/2015/08/24/about-backup/) и [«Bittorent Sync: полный контроль над фотографиями»](http://pavel.miroshnichen.co/2015/11/08/bittorrentsync/).
+Использую на полную катушку. Весь семейный документооборот работает через btsync. Централизованным устройством выступает NAS Synology DS 215j. Подробнее я писал в своих статьях: [«Как хранить фотоархив»](http://pavel.miroshnichen.co/2015/08/24/about-backup/) и [«Resilio Sync (ex. Bittorrent Sync): полный контроль над фотографиями»](http://pavel.miroshnichen.co/2015/11/08/bittorrentsync/).
 C этого года купил две лицензии.
 
 ### Коллекция «Для души и Мака»
