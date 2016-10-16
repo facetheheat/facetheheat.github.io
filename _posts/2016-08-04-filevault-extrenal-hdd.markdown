@@ -2,6 +2,7 @@
 layout: post
 title: 'Как включить шифрование Filevault 2 для внешних дисков'
 date: '2016-08-04 10:10:18'
+description: 'Как включить шифрование для macOS? Включаем FileVault 2 для внешних дисков'
 tags:
 - Mac
 ---

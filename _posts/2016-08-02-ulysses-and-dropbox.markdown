@@ -2,6 +2,7 @@
 layout: post
 title: 'Синхронизация Ulysses через Dropbox'
 date: '2016-08-02 08:10:18'
+description: 'Текстовый редактор Ulysses и синхронизация документов через Dropbox на iOS и macOS'
 tags:
 - Mac
 - iOS
