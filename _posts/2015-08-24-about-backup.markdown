@@ -2,6 +2,8 @@
 layout: post
 title: Как хранить фотоархив
 date: '2015-08-24 20:50:00'
+redirect_from: "/2015/08/25/about-backup/"
+summary: 'Бэкап фотоархива при помощи Dropbox, iCloud и Amazon Cloud Drive'
 tags:
 - Бэкап
 ---

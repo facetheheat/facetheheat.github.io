@@ -2,6 +2,8 @@
 layout: post
 title: Как настроить Launch Center Pro
 date: '2015-02-12 09:03:00'
+redirect_from: "/2015/02/13/launch-center-pro/"
+summary: 'Launch Center Pro - лаунчер приложений для iOS c поддержкой виджетов и URL-schemes'
 tags:
 - iOS
 - Автоматизация

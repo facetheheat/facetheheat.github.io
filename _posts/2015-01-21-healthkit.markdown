@@ -2,6 +2,8 @@
 layout: post
 title: Как сохранить данные Health.app
 date: '2015-01-21 08:01:00'
+redirect_from: "/2015/01/22/healthkit/"
+summary: 'Экспорт данных Health.app, экспорт данных из программы Здоровье на iPhone'
 tags:
 - iOS
 - iPhone

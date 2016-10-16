@@ -2,6 +2,8 @@
 layout: post
 title: Впечатляющие возможности LaunchBar
 date: '2015-03-25 07:59:00'
+redirect_from: "/2015/03/26/launchbar6/"
+summary: 'Обзор LaunchBar 6 - эффективный инструмент для запуска приложения и перемещения по папкам в Finder'
 tags:
 - Mac
 - Автоматизация
