@@ -2,7 +2,7 @@
 layout: post
 title: "Как использовать один аккаунт iCloud на двух iPhone"
 date: '2016-06-21 00:14:32'
-description: 'Один аккаунт iCloud на двух устройствах. Заметки, закладки, Find My iPhone, Фотографии, Mail.app, Напоминания, Календарь на двух iPhone.'
+summary: 'Один аккаунт iCloud на двух устройствах. Заметки, закладки, Find My iPhone, Фотографии, Mail.app, Напоминания, Календарь на двух iPhone.'
 tags:
 - iOS
 - iPhone
