@@ -98,7 +98,8 @@ tags:
 |||
 
 ## Приложения по подписке
-### [PLEX](https://itunes.apple.com/ru/app/plex/id383457673?l=en&mt=8&at=1001l9qh&ct=blog), годовая подписка PLEX Pass
+
+### [PLEX Media Server](https://itunes.apple.com/ru/app/plex/id383457673?l=en&mt=8&at=1001l9qh&ct=blog), с годовой подпиской PLEX Pass.
 
 |:-----------:|:------------|
 |[![](/images/2016/11/plex.png)](https://itunes.apple.com/ru/app/plex/id383457673?l=en&mt=8&at=1001l9qh&ct=blog)|Доступ к домашней медиатеке. Мне очень нравится PLEX, подробнее читайте в заметке [«Совершенный PLEX: видео, музыка, фильмы»](http://pavel.miroshnichen.co/2016/06/20/plex/ "Совершенный PLEX: видео, музыка, фильмы"). Оформил годовую подписку, в планах взять Lifetime.
