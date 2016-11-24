@@ -85,7 +85,7 @@ tags:
 |[![](/images/2016/11/bartender.png)](https://www.macbartender.com/)|Утилита из серии must-хэв. Особенно для владельцев макбуков. Не смог от неё отказаться, подробнее в заметке [«Bartender 2»](http://pavel.miroshnichen.co/2016/05/12/bartender/).
 |||
 
-### [Day One 2](https://itunes.apple.com/ru/app/journaly-journal/id1136652903?mt=12&uo=4&at=1001l9qh&ct=blog "Day One 2")
+### [Day One 2](https://itunes.apple.com/ru/app/day-one/id1055511498?l=ru&mt=12&at=1001l9qh&ct=blog "Day One 2")
 
 |:-----------:|:------------|
 |[![](/images/2016/11/dayone.png)](https://itunes.apple.com/ru/app/journaly-journal/id1136652903?mt=12&uo=4&at=1001l9qh&ct=blog)|Дневник и кладезь моих семейных воспоминаний. Во второй версии появилось множество интересных функций, мой краткий обзор [«Почти идеальный дневник Day One 2»](http://pavel.miroshnichen.co/2016/02/21/dayone/ "Почти идеальный дневник Day One 2").
