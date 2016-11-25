@@ -13,16 +13,16 @@ permalink: /recommend/
 
 **При регистрации по ссылкам вы получите бонус или хорошую скидку.** 
 
+>[![](/images/2015/09/logo_evernote-1.png)](https://www.evernote.com/referral/Registration.action?sig=116f27e9c1299381270fdccc23c7fc4afaf839a2ca748afe32431040deace24b&uid=5563004)
+[**Evernote**](https://www.evernote.com/referral/Registration.action?sig=be670050042704de9d866d7aec6d20dd&uid=5563004)  - удобное хранение любой информации. Я размещаю там заметки с картинками или фотографии, например, фотографирую карту из поликлиники с записями врачей, сохраняю с удобным распределением по тегам.
+
+
 >[![](/images/2015/09/logo_digitalocean-1.png)](https://www.digitalocean.com/?refcode=b4b70bceb22c)
 [**Digital Ocean**](https://www.digitalocean.com/?refcode=b4b70bceb22c) - быстрый и простой облачный хостинг с хранением данных на SSD дисках. Удобная веб-консоль, снимки состояния дроплетов и не только. Минимальный тариф - 5$.
 
 
 >[![](/images/2015/09/logo_dropbox-1.png)](https://db.tt/vxSlAY4l)
 [**Dropbox**](https://db.tt/vxSlAY4l) - безупречная облачная синхронизация документов. Синхронизация общих документов, сканов - все это работает через Dropbox. Преимущества на iOS - многие приложения поддерживают синхронизацию через этот сервис.
-
-
->[![](/images/2015/09/logo_evernote-1.png)](https://www.evernote.com/referral/Registration.action?sig=be670050042704de9d866d7aec6d20dd&uid=5563004)
-[**Evernote**](https://www.evernote.com/referral/Registration.action?sig=be670050042704de9d866d7aec6d20dd&uid=5563004)  - удобное хранение любой информации. Я размещаю там заметки с картинками или фотографии, например, фотографирую карту из поликлиники с записями врачей, сохраняю с удобным распределением по тегам.
 
 
 >[![](/images/2015/09/logo_yandexdisk.png)](https://disk.yandex.ru/invite/?hash=I2IUR2R9)
