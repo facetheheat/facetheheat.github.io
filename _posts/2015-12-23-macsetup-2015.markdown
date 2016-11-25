@@ -12,7 +12,8 @@ tags:
 
 ![](http://pavel.miroshnichen.co/images/2015/12/Mac2015_800.png){: .center-image .responsive-image }
 
-Предыдущая заметка за [**2014 год**](http://pavel.miroshnichen.co/2015/01/17/setup-2015/).
+Предыдущая заметка за [**2014 год**](http://pavel.miroshnichen.co/2015/01/17/setup-2015/).  
+[**Обновленная статья за 2016 год**](http://pavel.miroshnichen.co/2016/11/24/macsetup-2016/)
 
 ## Powered by
 [**OS X 10.11 El Capitan**](https://itunes.apple.com/ru/app/os-x-el-capitan/id1018109117?mt=12&uo=4&at=1001l9qh&ct=blog) и MacBook Pro 2013
