@@ -23,7 +23,7 @@ future:		      true
 # Disqus post comments
 # (leave blank to disable Disqus)
 disqus_shortname: pavelmiroshnichenko
-#disqus_shortname:
+# disqus_shortname:
 
 # Social icons
 github_username:
