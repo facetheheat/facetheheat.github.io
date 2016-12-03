@@ -15,7 +15,7 @@ tags:
 ## Приложения с пожизненными обновлениями (Lifetime)
 Если разработчик предлагает Lifetime-опцию, с большой вероятностью Вам это выгоднее, чем самому разработчику. Как правило, к указанной стоимости продукта добавляется возможность доплатить 50%, но все последующие major и minor версии будут бесплатными. 
 
-### [Alfred  (PowerPack + Mega Supporter)](https://www.alfredapp.com/ "Alfred 3")
+#### [Alfred  (PowerPack + Mega Supporter)](https://www.alfredapp.com/ "Alfred 3")
 [![](/images/2016/11/alfred_stats.png)](https://www.alfredapp.com/)
 Лаунчер, после которого Spotlight нервно курит в сторонке. Проходит время, мы меняемся. Все хорошее когда-то заканчивается и начинается ещё лучше! Долгое время я пользовался [LaunchBar](http://pavel.miroshnichen.co/2015/03/25/launchbar6/ "«Впечатляющие возможности LaunchBar»"), но решил вернуться к Alfred. Про Alfred 3 стоит написать отдельную заметку, но пока никак не соберусь, а пока отмечу кратким списком: запуск приложений, биндинг клавиатурных сокращений, сниппеты и текстовые сокращения, менеджер буфера обмена, работа с файлами и многое другое.
 
@@ -24,74 +24,74 @@ tags:
 [![](/images/2016/11/arq5_screen.png)](https://www.arqbackup.com/)
 Эталонное приложение для бэкапа. Весь 2015 год я мечтал об этом приложении, но никак не мог договориться с жабой. В итоге, 1 января 2016 я стал обладателем Arq 4, а с выходом Arq 5 докупил Lifetime-лицензию, т.к. разработчик поменял условия и продукт можно использовать на всех своих компьютерах, включая Mac & Windows.
 
-### [2Do](https://itunes.apple.com/ru/app/2do/id477670270?mt=12&uo=4&at=1001l9qh&ct=blog "2Do")
+#### [2Do](https://itunes.apple.com/ru/app/2do/id477670270?mt=12&uo=4&at=1001l9qh&ct=blog "2Do")
 [![](/images/2016/11/2do_screen.png)](https://itunes.apple.com/ru/app/2do/id477670270?mt=12&uo=4&at=1001l9qh&ct=blog)
 Простой планировщик дел. Гибкий подход в 2Do позволяет применять любые методологии для достижения цели — завершать задачи. Можно даже не применять ничего, а просто вести дела по спискам. Уже несколько лет продукт обновляется бесплатно, поэтому добавил в категорию Lifetime-подписок. 
 
 ## Новые приложения в 2016 году
 Список приложений, которыми я стал пользоваться в 2016 году. Ну или те, которые я наконец-то позволил себе купить.
 
-### [MindNode](https://itunes.apple.com/ru/app/mindnode-2-delightful-mind/id992076693?mt=12&uo=4&at=1001l9qh&ct=blog "MindNode for macOS")
+#### [MindNode](https://itunes.apple.com/ru/app/mindnode-2-delightful-mind/id992076693?mt=12&uo=4&at=1001l9qh&ct=blog "MindNode for macOS")
 
 |:-----------:|:------------|
 |[![](/images/2016/11/mindnode.png)](https://itunes.apple.com/ru/app/mindnode-2-delightful-mind/id992076693?mt=12&uo=4&at=1001l9qh&ct=blog "MindNode for macOS")|Красивые ментальные карты — преимущество MindNode. В прошлом году я пользовался iThoughts, но с эстетической стороны он проигрывает MindNode.|
 |||
 
-### [Focus - блокировка отвлекающих сайтов](https://heyfocus.com/ "Focus app to block distracting websites like Facebook and Reddit")
+#### [Focus - блокировка отвлекающих сайтов](https://heyfocus.com/ "Focus app to block distracting websites like Facebook and Reddit")
 
 |:------------|:------------|
 |[![](/images/2016/11/focus-1.png)](https://heyfocus.com/)|Приложение для борьбы с прокрастинацией. Обычная блокировка через `/etc/hosts`, но за деньги приложение отображает умные мысли из интернета. 
 |||
 
-### [Focus - таймер pomodoro](https://itunes.apple.com/ru/app/pomodoro-timer-focus-on-your/id872515009?mt=12&uo=4&at=1001l9qh&ct=blog "Focus - productivity timer")
+#### [Focus - таймер pomodoro](https://itunes.apple.com/ru/app/pomodoro-timer-focus-on-your/id872515009?mt=12&uo=4&at=1001l9qh&ct=blog "Focus - productivity timer")
 
 |:-----------:|:------------|
 |[![](/images/2016/11/focus.png)](https://itunes.apple.com/ru/app/pomodoro-timer-focus-on-your/id872515009?mt=12&uo=4&at=1001l9qh&ct=blog)|Ещё одно приложение для самоорганизации по технике pomodoro. Есть куча бесплатных и платных приложений, можно устанавливать таймер на телефоне или купить в IKEA. Мне понравился дизайн и нормальная синхронизация через iCloud. Хотя автору стоит прикладывать больше усилий, чтобы оправдать такую дорогую стоимость для простого таймера.
 |||
 
-### [Ulysses](https://itunes.apple.com/ru/app/ulysses/id623795237?mt=12&uo=4&at=1001l9qh&ct=blog)
+#### [Ulysses](https://itunes.apple.com/ru/app/ulysses/id623795237?mt=12&uo=4&at=1001l9qh&ct=blog)
 
 |:-----------:|:------------|
 |[![](/images/2016/11/ulysses.png)](https://itunes.apple.com/ru/app/ulysses/id623795237?mt=12&uo=4&at=1001l9qh&ct=blog)|Профессиональный текстовый редактор. Я использую для блога и временных заметок или рабочей документации. Редактор сделан на столько качественно, что использование приносит удовольствие. Подробнее в статье [«Ulysses. Текстовый редактор без иллюзий»](http://pavel.miroshnichen.co/2016/04/30/ulysses/).
 |||
 
-### [ОРФО 2016](http://www.orfo.ru/versions/#_macfullplus "ОРФО 2016 Плюс для macOS")
+#### [ОРФО 2016](http://www.orfo.ru/versions/#_macfullplus "ОРФО 2016 Плюс для macOS")
 
 |:-----------:|:------------|
 |[![](/images/2016/11/orfo.png)](http://www.orfo.ru/versions/#_macfullplus)|Классное приложение для проверки орфографии. Раз в год проходят акции по апгрейду и снижением цены. Работает только с нативными приложениями. Для Sublime Text 3 приходится подключать сторонние словари.
 |||
 
-### [Sublime Text 3](http://www.sublimetext.com/3 "Sublime Text 3")
+#### [Sublime Text 3](http://www.sublimetext.com/3 "Sublime Text 3")
 
 |:-----------:|:------------|
 |[![](/images/2016/11/sublime.png)](http://www.sublimetext.com/3)|Самый крутой текстовый редактор. Очень странно, что это приложение попало в список 2016 года. Начал использовать Sublime Text очень давно, ещё с момента выхода Sublime Text 2. Каюсь, все это время использовал трайл, но на анонсе релиза 3й версии купил лицензию.
 |||
 
-### [Copied](https://itunes.apple.com/ru/app/copied-copy-paste-everywhere/id1026349850?mt=12&uo=4&at=1001l9qh&ct=blog "Copied for macOS")
+#### [Copied](https://itunes.apple.com/ru/app/copied-copy-paste-everywhere/id1026349850?mt=12&uo=4&at=1001l9qh&ct=blog "Copied for macOS")
 
 |:-----------:|:------------|
 |[![](/images/2016/11/copied.png)](https://itunes.apple.com/ru/app/copied-copy-paste-everywhere/id1026349850?mt=12&uo=4&at=1001l9qh&ct=blog)|Ещё один менеджер буфера обмена. В macOS 10.12 Sierra появилась опция Universal Clipboard, но в Copied есть списки, клавиатура на iOS и интеграция в Messages for iOS. Кратко ознакомиться с работой приложения можно в [Geek Blog](https://fluder.co/blog/2016/06/01/copied/).
 |||
 
-### [Boom 2](https://itunes.apple.com/ru/app/boom-2-best-audio-enhancement/id948176063?mt=12&uo=4&at=1001l9qh&ct=blog)
+#### [Boom 2](https://itunes.apple.com/ru/app/boom-2-best-audio-enhancement/id948176063?mt=12&uo=4&at=1001l9qh&ct=blog)
 
 |:-----------:|:------------|
 |[![](/images/2016/11/boom.png)](https://itunes.apple.com/ru/app/boom-2-best-audio-enhancement/id948176063?mt=12&uo=4&at=1001l9qh&ct=blog)|Эквалайзер и усилитель звука на macOS. В плеере VLC есть возможность увеличить громкость на 200%, а в Boom 2 ещё предлагают уникальный эквалайзер. Слушать музыку гораздо приятнее, но приложение работает только с локальными устройствами, если слушаете через Airplay, то работать не будет. 
 |||
 
-### [Bartender 2](https://www.macbartender.com/)
+#### [Bartender 2](https://www.macbartender.com/)
 
 |:-----------:|:------------|
 |[![](/images/2016/11/bartender.png)](https://www.macbartender.com/)|Утилита из серии must-хэв. Особенно для владельцев макбуков. Не смог от неё отказаться, подробнее в заметке [«Bartender 2»](http://pavel.miroshnichen.co/2016/05/12/bartender/).
 |||
 
-### [Day One 2](https://itunes.apple.com/ru/app/day-one/id1055511498?l=ru&mt=12&at=1001l9qh&ct=blog "Day One 2")
+#### [Day One 2](https://itunes.apple.com/ru/app/day-one/id1055511498?l=ru&mt=12&at=1001l9qh&ct=blog "Day One 2")
 
 |:-----------:|:------------|
 |[![](/images/2016/11/dayone.png)](https://itunes.apple.com/ru/app/journaly-journal/id1136652903?mt=12&uo=4&at=1001l9qh&ct=blog)|Дневник и кладезь моих семейных воспоминаний. Во второй версии появилось множество интересных функций, мой краткий обзор [«Почти идеальный дневник Day One 2»](http://pavel.miroshnichen.co/2016/02/21/dayone/ "Почти идеальный дневник Day One 2").
 |||
 
-### [Moom 2](https://itunes.apple.com/ru/app/moom/id419330170?mt=12&uo=4&at=1001l9qh&ct=blog)
+#### [Moom 2](https://itunes.apple.com/ru/app/moom/id419330170?mt=12&uo=4&at=1001l9qh&ct=blog)
 
 |:-----------:|:------------|
 |[![](/images/2016/11/moom.png)](https://itunes.apple.com/ru/app/moom/id419330170?mt=12&uo=4&at=1001l9qh&ct=blog)|Регулярно пересматриваю оконные менеджеры. В прошлом году это был аскетичный [Magnet](http://pavel.miroshnichen.co/2015/12/24/macsetup-2015/), а в этом гибкий Moom. Посмотрев на возможности windows-аналога AquaSnap, понимаешь, на сколько несовершенны подобные macOS приложения.
@@ -99,21 +99,21 @@ tags:
 
 ## Приложения по подписке
 
-### [PLEX Media Server](https://itunes.apple.com/ru/app/plex/id383457673?l=en&mt=8&at=1001l9qh&ct=blog), с годовой подпиской PLEX Pass.
+#### [PLEX Media Server](https://itunes.apple.com/ru/app/plex/id383457673?l=en&mt=8&at=1001l9qh&ct=blog), с годовой подпиской PLEX Pass.
 
 |:-----------:|:------------|
 |[![](/images/2016/11/plex.png)](https://itunes.apple.com/ru/app/plex/id383457673?l=en&mt=8&at=1001l9qh&ct=blog)|Доступ к домашней медиатеке. Мне очень нравится PLEX, подробнее читайте в заметке [«Совершенный PLEX: видео, музыка, фильмы»](http://pavel.miroshnichen.co/2016/06/20/plex/ "Совершенный PLEX: видео, музыка, фильмы"). Оформил годовую подписку, в планах взять Lifetime.
 |||
 
-### Apple Music
+#### Apple Music
 Индивидуальная подписка за 169 рублей. Нравятся тематические плейлисты:  
 - [Headspace](https://itunes.apple.com/ru/playlist/headspace/idpl.49fa4124be174a3da9e5ec43b0d07e65?l=ru),
 - [Swift-concentration](https://itunes.apple.com/ru/playlist/swift-concentration/idpl.88da7dccd58141ee821d3370b874c917?l=ru).
 
-### iCloud Drive
+#### iCloud Drive
 Активирована подписка на 1Тб, т.к. коллекция в Photos.app занимает более 200Гб. Как я перешел на использование Photos.app можно почитать в заметке [«Медиатека iCloud Photo Library»](http://pavel.miroshnichen.co/2016/06/21/icloud-photo-library/).
 
-### [Evernote](https://www.evernote.com/referral/Registration.action?sig=be670050042704de9d866d7aec6d20dd&uid=5563004)
+#### [Evernote](https://www.evernote.com/referral/Registration.action?sig=be670050042704de9d866d7aec6d20dd&uid=5563004)
 
 |:-----------:|:------------|
 |[![](/images/2016/11/evernote.png)](https://www.evernote.com/referral/Registration.action?sig=be670050042704de9d866d7aec6d20dd&uid=5563004)|Quiver так и не смог набрать популярность и прекратил развиваться, а Evernote предложил [Premium по очень хорошей цене](https://www.evernote.com/referral/Registration.action?sig=116f27e9c1299381270fdccc23c7fc4afaf839a2ca748afe32431040deace24b&uid=5563004 "Evernote Premium"). Активировал себе и супруге.
