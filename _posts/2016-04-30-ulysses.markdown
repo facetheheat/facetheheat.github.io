@@ -83,7 +83,11 @@ OS X версия Ulysses поддерживает `External Folders` — сто
 
 ![](http://pavel.miroshnichen.co/images/2016/04/MacBook_TouchBar.jpg)
 
-С версии 2.7 владельцам MacBook Pro 2016 с сенсорной панелью `Touch Bar` доступна замена функциональным клавишам — отображение отдельных контекстных функций редактора. Через Touch Bar можно присвоить теги разметки по мере набора текста
+С версии 2.7 владельцам MacBook Pro 2016 с сенсорной панелью `Touch Bar` доступна замена функциональным клавишам — отображение отдельных контекстных функций редактора. Через Touch Bar можно присвоить теги разметки по мере набора текста.
+
+![](http://pavel.miroshnichen.co/images/2016/04/TouchBar_screens.png)
+
+![](http://pavel.miroshnichen.co/images/2016/04/TouchBar_demo.gif)
 
 ### Табы в macOS Sierra
 
