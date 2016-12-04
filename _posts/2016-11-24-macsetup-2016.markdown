@@ -95,8 +95,10 @@ tags:
 
 #### Apple Music
 Индивидуальная подписка за 169 рублей. Нравятся тематические плейлисты:  
-- [Headspace](https://itunes.apple.com/ru/playlist/headspace/idpl.49fa4124be174a3da9e5ec43b0d07e65?l=ru),
-- [Swift-concentration](https://itunes.apple.com/ru/playlist/swift-concentration/idpl.88da7dccd58141ee821d3370b874c917?l=ru).
+
+- [Headspace](https://itunes.apple.com/ru/playlist/headspace/idpl.49fa4124be174a3da9e5ec43b0d07e65?l=ru),  
+- [Swift-concentration](https://itunes.apple.com/ru/playlist/swift-concentration/idpl.88da7dccd58141ee821d3370b874c917?l=ru).  
+
 
 #### iCloud Drive
 Активирована подписка на 1Тб, т.к. коллекция в Photos.app занимает более 200Гб. Как я перешел на использование Photos.app можно почитать в заметке [«Медиатека iCloud Photo Library»](http://pavel.miroshnichen.co/2016/06/21/icloud-photo-library/).
