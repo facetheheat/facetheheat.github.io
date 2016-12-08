@@ -8,6 +8,7 @@ tags:
 - iPhone
 ---
 
+![](/images/2016/06/icloud_512.png)
 
 Мой переход на Photos.app был бы невозможен без удобного использования сервиса на телефонах. В заметке [«Медиатека iCloud Photo Library»](http://pavel.miroshnichen.co/2016/06/21/icloud-photo-library) я рассказал, что на двух телефонах пришлось настроить одну учетную запись iCloud. 
 
