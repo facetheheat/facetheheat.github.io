@@ -15,7 +15,7 @@ permalink: /recommend/
 
 
 >![](/images/2015/09/logo_SurfEasy-1.png) 
-[**SurfEasy VPN**](http://www.shareasale.com/r.cfm?b=845758&u=1452471&m=59985&urllink=&afftrack=) - VPN сервис от Opera Inc.: выбор из 28 стран для подключения, разрешены torrent'ы, одновременная работа на 5 устройствах, поддержка всех устройств (macOS, iOS, Windows, Linux, Android).
+[**SurfEasy VPN**](http://www.shareasale.com/r.cfm?b=785679&u=1452471&m=59985&urllink=&afftrack=) - VPN сервис от Opera Inc.: выбор из 28 стран для подключения, разрешены torrent'ы, одновременная работа на 5 устройствах, поддержка всех устройств (macOS, iOS, Windows, Linux, Android).
 
 
 >[![](/images/2015/09/logo_evernote-1.png)](https://www.evernote.com/referral/Registration.action?sig=116f27e9c1299381270fdccc23c7fc4afaf839a2ca748afe32431040deace24b&uid=5563004)
