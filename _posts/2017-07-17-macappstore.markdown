@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Перенос купленных приложений из Mac App Store в Direct лицензии'
+title: 'Перевод купленных приложений из Mac App Store в Direct лицензии'
 date: '2017-07-17 13:03:22'
-summary: 'Перенос ранее купленных приложений из Mac App Store в Direct лицензии (лицензии с сайта)'
+summary: 'Перевод ранее купленных приложений из Mac App Store в Direct лицензии (лицензии с сайта)'
 tags:
 - Mac
 ---
