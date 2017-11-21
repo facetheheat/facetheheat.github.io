@@ -114,7 +114,7 @@ tags:
 - [1Password](https://itunes.apple.com/ru/app/1password/id443987910?mt=12&uo=4&at=1001l9qh&ct=blog "1Password for Mac") Менеджер паролей и конфеденциальной информации #1
 - [Code Runner 2](https://itunes.apple.com/ru/app/coderunner-2/id955297617?mt=12&uo=4&at=1001l9qh&ct=blog) Помощник для отладки и тестирования скриптов #1
 - [Hazel](https://www.noodlesoft.com/ "Hazel 4") Програмный комплекс для автоматизации macOS #1
-- [DaisyDisk](https://itunes.apple.com/ru/app/daisydisk/id411643860?mt=12&uo=4&at=1001l9qh&ct=blog) Графическое представление занятого и свободного места на диске #1
+- [DaisyDisk](http://daisydiskapp.evyy.net/c/205980/274481/4398) Графическое представление занятого и свободного места на диске #1
 - [PDF Expert](https://itunes.apple.com/ru/app/pdf-expert-2-lucsij-redaktor/id1055273043?mt=12&uo=4&at=1001l9qh&ct=blog) PDF просмотрщик и редактор для macOS и iOS #1
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) Фаерволл для macOS #1
 - [Soulver](https://itunes.apple.com/ru/app/soulver/id413965349?mt=12&uo=4&at=1001l9qh&ct=blog) Необычный калькулятор для наглядных вычислений
