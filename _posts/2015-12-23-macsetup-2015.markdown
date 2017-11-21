@@ -132,7 +132,7 @@ C этого года купил две лицензии.
 [Hazel](http://www.noodlesoft.com/hazel.php)  
 «Бесшумный убийца» для автоматизации задач. Скрыто и безболезненно выполняет все ваши задания. Какой это крутой инструмент читайте в статьях [«Освобождаем место на SSD при помощи Dropbox, Hazel и Python»](http://pavel.miroshnichen.co/2015/02/02/hazel-ios-apps/) и [«Настраиваем Hazel - автоматизатор для Mac»](http://pavel.miroshnichen.co/2015/11/11/hazelrocks/).
 
-[DaisyDisk 4](https://geo.itunes.apple.com/ru/app/daisydisk/id411643860?mt=12&uo=4&at=1001l9qh&ct=blog)  
+[DaisyDisk 4](http://daisydiskapp.evyy.net/c/205980/274481/4398)  
 Программа для визуального отображения занятого места на диске. Новая версия (Daisy Disk 4) работает очень быстро, я записал видео, доступно в анонсе [Daisy Disk 4](http://pavel.miroshnichen.co/2015/09/03/daisydisk/).
 
 [fb2mobi](https://github.com/rupor-github/fb2mobi)  
