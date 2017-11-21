@@ -78,7 +78,7 @@ tags:
 **[Hazel](http://www.noodlesoft.com/hazel.php)**  
 Инструмент автоматизации. Автоматическое раскидывание файлов по правилам, удаление приложений. Постараюсь рассказать о нем в ближайшее время: [«Освобождаем место на SSD при помощи Dropbox, Hazel и Python»](http://pavel.miroshnichen.co/2015/02/02/hazel-ios-apps/) и [«Настраиваем Hazel - автоматизатор для Mac»](http://pavel.miroshnichen.co/2015/11/11/hazelrocks/)
 
-**[DaisyDisk](https://geo.itunes.apple.com/ru/app/daisydisk/id411643860?mt=12&uo=4&at=1001l9qh&ct=blog)**  
+**[DaisyDisk](http://daisydiskapp.evyy.net/c/205980/274481/4398)**  
 Размер моего SSD всего лишь 128Гб. Программа в наглядном виде сообщает, какие приложения или данные заняли место. Легко найти хлам, временные файлы и прочее. **[Мой анонс программы](http://pavel.miroshnichen.co/2015/09/03/daisydisk/)**.
 
 **[Patterns](https://geo.itunes.apple.com/ru/app/patterns-the-regex-app/id429449079?mt=12&uo=4&at=1001l9qh&ct=blog)**  
