@@ -13,10 +13,8 @@ permalink: /recommend/
 
 **При регистрации по ссылкам вы получите бонус или хорошую скидку.** 
 
-
->![](/images/2015/09/logo_SurfEasy-1.png) 
-[**SurfEasy VPN**](http://www.shareasale.com/r.cfm?b=785679&u=1452471&m=59985&urllink=&afftrack=) - VPN сервис от Opera Inc.: выбор из 28 стран для подключения, разрешены torrent'ы, одновременная работа на 5 устройствах, поддержка всех устройств (macOS, iOS, Windows, Linux, Android).
-
+>![](/images/2015/09/hashflare.png) 
+[**HashFlare**](https://hashflare.io/r/F94FEA7F) - Облачная ферма для майнинга криптовалют. Несколько валют BTC(scrypt,sha-256), ETH, zcash и т.д. Быстрое подключение, мониторинг и статистика, ежедневные отчисления. 
 
 >[![](/images/2015/09/logo_evernote-1.png)](https://www.evernote.com/referral/Registration.action?sig=116f27e9c1299381270fdccc23c7fc4afaf839a2ca748afe32431040deace24b&uid=5563004)
 [**Evernote**](https://www.evernote.com/referral/Registration.action?sig=be670050042704de9d866d7aec6d20dd&uid=5563004)  - удобное хранение любой информации. Я размещаю там заметки с картинками или фотографии, например, фотографирую карту из поликлиники с записями врачей, сохраняю с удобным распределением по тегам.
