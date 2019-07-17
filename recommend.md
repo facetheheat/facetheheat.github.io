@@ -16,7 +16,9 @@ permalink: /recommend/
 >[![](/images/2016/11/tinkoff_invest.png)](https://www.tinkoff.ru/sl/1yKLkzT0slA)
 [**Тинькофф Инвестиции**](https://www.tinkoff.ru/sl/1yKLkzT0slA) - покупка классических ценных бумаг в пару кликов. Очень удобный брокер. Комиссия за совершение сделок + обслуживание 99р, но удобство того стоит, особенно если у вас уже есть карта Black.
 
->[**Блокчейн Minter**](http://t.me/MinterContestBot?start=125636) - блокчейн не связанный с Bitcoin, но с очень перспективной идеологией. Запущен в мае 2019.
+
+>>[![](/images/2016/11/minter.png)](http://t.me/MinterContestBot?start=125636)
+[**Блокчейн Minter**](http://t.me/MinterContestBot?start=125636) - блокчейн не связанный с Bitcoin, но с очень перспективной идеологией. Запущен в мае 2019.
 
 
 >[![](/images/2015/09/logo_evernote-1.png)](https://www.evernote.com/referral/Registration.action?sig=116f27e9c1299381270fdccc23c7fc4afaf839a2ca748afe32431040deace24b&uid=5563004)
