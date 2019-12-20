@@ -4,7 +4,7 @@ email:       'pavel@miroshnichen.co'
 author:      'Павел Мирошниченко'
 description: 'Тестирую и сравниваю различные приложения, чтобы найти и сделать обзор самых лучших для iPhone, iPad и Mac.'
 baseurl:     ''
-url:         'http://pavel.miroshnichen.co'
+url:         'https://pavel.miroshnichen.co'
 date_format: '%d/%m/%Y'
 
 # Google services
